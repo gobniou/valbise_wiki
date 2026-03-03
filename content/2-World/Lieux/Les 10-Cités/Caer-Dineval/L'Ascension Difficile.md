@@ -1,0 +1,5 @@
+*Taverne*
+
+Cette taverne est située au nord-ouest du Caer, où elle offre une vue spectaculaire sur le lac et les quais gelés. L'Ascension Difficile sert de la bouillabaisse chaude mais n'a plus de bière ni de spiritueux, ce qui pourrait expliquer pourquoi les locaux ne fréquentent plus autant l'endroit qu'avant. Le propriétaire, un homme robuste d'âge moyen nommé Roark (humain loyal bon, roturier), accuse l'hiver maudit et la fermeture du ferry Havre-du-Levant d'être à l'origine de ses difficultés commerciales. Bien qu'il ait des chambres libres avec des lits vides, il prétend n'avoir aucun logement disponible pour les clients. Si les aventuriers cherchent un endroit pour se reposer, il leur suggère d'essayer le Caer. Roark ne peut pas garantir que les assistants de l'orateur Crannoc Siever les accueilleront à bras ouverts, étant donné que l'orateur a été malade ces derniers temps.
+
+Roark et certains de ses clients savent que quelque chose ne va pas au château, mais ils se gardent bien d'en parler. Roark pense que s'il dirige les aventuriers vers le château, ils découvriront ce qui se passe par eux-mêmes.

@@ -1,0 +1,7 @@
+Var Lodmundottir était une guerrière humaine, la fille d’un roi isdalien qui a repoussée une invasion de géants des glaces il y a plusieurs millénaires.
+
+## Légende
+
+La légende raconte que lors de la création du monde, Krog était partagé entre les géants des glaces, les humains et les nains. Les géants souhaitaient régner sur les  humains et les nains, mais ceux-ci se rebellèrent. Ces derniers n’étaient pas unis, les  humains étant divisés en tribu et les nains n’acceptant de s’associer à ces humanoïdes qui les regardaient de haut. À la mort de du roi humain Lodmun, lors d’une bataille contre des géants des glaces, sa fille Var réussit à rallier les différents clans humains et nains en démontrant sa foi, sa combativité, son intelligence et ses dons en terme de magie. Elle mena les troupes lors d’un combat décisif. Lorsque les premiers rayons du soleil pointèrent à l’horizon, elle abattit le dernier géant avec son dernier souffle de vie et s’écroula. Son corps fut comme touché par les rayons du soleil et brilla intensément. Quand les hommes purent enfin rouvrir les yeux, c’était un nourrisson qui se tenait à sa place. Le bébé fut ramener et éduquer et devint la plus grande reine d’Isdalen jusqu’à sa mort. Ses pouvoirs avaient augmenté jusqu’à être considérés comme divins et à sa mort, un véritable culte se créa autour de sa figure et de sa mémoire.
+
+Certains aventuriers disent avoir été sauvés à l’aube par une figure humanoïde nimbée de lumière qui les auraient menés vers des camps de nomades ou sur le chemin d’une ville.

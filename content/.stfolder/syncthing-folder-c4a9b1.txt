@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: kcaom-acti6
+created: 2025-08-28T16:23:50+02:00

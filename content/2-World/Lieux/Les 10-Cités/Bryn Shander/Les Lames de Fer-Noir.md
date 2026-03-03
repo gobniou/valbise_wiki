@@ -1,0 +1,3 @@
+*Forge et fournisseur*
+
+Cette combinaison de magasin et de forge se trouve juste au nord de la place principale. Garn le Marteau (roturier Nains d'Écu, loyal bon) fabrique les lames les moins chères de Dix-Cités, tandis que sa sœur Elza (roturière Naine d'Écu, loyal bon) vend des provisions pour l'aventure - y compris des rations, des équipements pour le froid, des pics à glace et des raquettes - aux aventuriers en quête de fortune. La plupart des anciens forgerons de Dix-Cités dédaignent l'artisanat de Garn, en raison de la qualité médiocre de son travail. Les blagues sur les nouveaux arrivants malchanceux au Valbise se terminent souvent par la phrase "et il portait une lame Fer-Noir, en plus !".

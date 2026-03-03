@@ -1,0 +1,37 @@
+{
+  "name": "Duergar Marteleur",
+  "cr": null,
+  "role": "Garde artificiel",
+  "status": "Actif",
+  "type": [
+    "Artificiel"
+  ],
+  "hp": 33,
+  "ac": 17,
+  "str": 3,
+  "dex": -2,
+  "con": 1,
+  "int": -3,
+  "wis": -3,
+  "cha": -3,
+  "saves": {
+    "str": null,
+    "dex": null,
+    "con": null,
+    "int": null,
+    "wis": null,
+    "cha": null
+  },
+  "skills": [],
+  "senses": [],
+  "languages": [],
+  "hp_formula": null,
+  "speed_text": null,
+  "bio_html": "<p>Création artificielle à l’apparence d’un nain déformé, ce marteleur est utilisé comme arme de siège et comme bourreau. Conçu pour infliger douleur et destruction, il est muet mais comprend le nain.</p>",
+  "resistances": [],
+  "immunities": [],
+  "vulnerabilities": [],
+  "traits": [],
+  "actions": [],
+  "abilities": []
+}

@@ -1,0 +1,31 @@
+areas:
+  - shape: circle
+    coords: [574,286,22]
+    link: "[[Les Lames de Fer-Noir]]"
+  - shape: circle
+    coords: [769,208,19]
+    link: "[[Maison du Seigneur du Matin]]"
+  - shape: circle
+    coords: [498,162,19]
+    link: "[[Le Regard du Nord]]"
+  - shape: circle
+    coords: [496,405,12]
+    link: "[[Au confort de Kelvin]]"
+  - shape: circle
+    coords: [835,410,17]
+    link: "[[Auberge de Geldenstag]]"
+  - shape: circle
+    coords: [534,359,14]
+    link: "[[Marché]]"
+  - shape: circle
+    coords: [600,369,8]
+    link: "[[Emporium de Rendaril]]"
+  - shape: circle
+    coords: [577,327,15]
+    link: "[[Andouille crochue]]"
+  - shape: circle
+    coords: [535,477,21]
+    link: "[[Demeure du Speaker]]"
+  - shape: circle
+    coords: [452,367,13]
+    link: "[[Caserne Municipale]]"
