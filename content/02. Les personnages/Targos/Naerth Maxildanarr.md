@@ -27,7 +27,7 @@ status: Alive
 > Statut | `INPUT[inlineSelect(option(Alive), option(Dead), option(Missing)):status]` |
 
 ## 👤 DESCRIPTION
-**Apparence :** > [!quote] "Le commerce est le sang de Valbise, et je compte bien m'assurer que le cœur continue de battre... sous ma surveillance."
+**Apparence :** > [!quote] "Le commerce est le sang de Valbise, et je compte bien m'assurer que le cœur continue de battre... sous ma surveillance." [!quote]
 
 * **Traits marquants :** Toujours impeccablement vêtu malgré le froid, Naerth porte des fourrures coûteuses et des bagues en or. Il a un sourire poli mais qui n'atteint jamais ses yeux calculateurs.
 * **Maniérisme :** Il caresse souvent une petite pièce de platine entre ses doigts lorsqu'il réfléchit. Il parle d'une voix calme, posée, presque réconfortante.
