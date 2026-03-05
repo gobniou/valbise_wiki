@@ -60,11 +60,3 @@ Naerth est l'antagoniste politique principal du Chapitre 1. Il cherche à étend
 
 ---
 
-
-
-### Pourquoi ce PNJ est top pour tester ton système :
-1. **Lien de lieu :** Tu peux cliquer sur `[[Targos]]` pour voir la cité.
-2. **Interaction :** Tu peux changer son statut en `Dead` si tes joueurs décident de faire un coup d'État.
-3. **Secret :** La partie Zhentarim reste invisible pour les joueurs, mais accessible pour toi d'un clic.
-
-**Souhaitez-vous que je génère le lot des autres orateurs ou les PNJs donneurs de quêtes (comme Hlin ou Tali) ?**
