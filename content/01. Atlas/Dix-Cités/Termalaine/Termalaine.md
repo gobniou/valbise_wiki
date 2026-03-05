@@ -27,7 +27,7 @@ Cependant, sous cette beauté apparente, une tension politique couve. L'orateur 
 * La Palourde Bleue
 **Taverne**
 Réputée pour avoir la meilleure bouillabaisse de Valbise. Le propriétaire, **Vernon Braig**, est un homme jovial qui aime partager les rumeurs locales.
-%%  **Rumeurs de la Mine :** Vernon a entendu des mineurs parler d'un "grell" et d'autres créatures étranges qui auraient envahi les niveaux inférieurs. %%
+%% #secret **Rumeurs de la Mine :** Vernon a entendu des mineurs parler d'un "grell" et d'autres créatures étranges qui auraient envahi les niveaux inférieurs. %%
 
 * Le Côté Est
 **Hébergement**
