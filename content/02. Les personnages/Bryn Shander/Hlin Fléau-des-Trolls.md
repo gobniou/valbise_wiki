@@ -28,7 +28,7 @@ status: Alive
 > Statut | `INPUT[inlineSelect(option(Alive), option(Dead), option(Missing)):status]` |
 
 ## 👤 DESCRIPTION
-**Apparence :** > [!quote] "La justice de Valbise est devenue aussi froide que son vent. Si les lois ne punissent plus les tricheurs, mon marteau le fera."
+**Apparence :** > "La justice de Valbise est devenue aussi froide que son vent. Si les lois ne punissent plus les tricheurs, mon marteau le fera."
 
 * **Traits marquants :** Une naine d'un certain âge, aux cheveux gris tressés avec des anneaux de fer. Elle porte une armure de cuir usée mais entretenue et un bouclier cabossé.
 * **Maniérisme :** Elle ne boit jamais son alcool d'un trait, elle le sirote en observant la porte de la taverne. Elle a tendance à tapoter son marteau de guerre lorsqu'elle est impatiente.
