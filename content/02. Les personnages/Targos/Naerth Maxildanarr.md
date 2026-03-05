@@ -52,7 +52,7 @@ Naerth est l'antagoniste politique principal du Chapitre 1. Il cherche à étend
 
 ## ⚔️ COMBAT & STATISTIQUES
 * **Bloc de stats :** Espion (**Spy**) ou Noble.
-* **Équipement notable :** Une dague finement ciselée, une clé ouvrant le nichoir des serpents, une bourse contenant 50 po.
+* **Équipement notable :** Une dague finement ciselée, %% #secret une clé ouvrant le nichoir des serpents,%% une bourse contenant 50 po.
 
 ---
 **Notes de session :**
