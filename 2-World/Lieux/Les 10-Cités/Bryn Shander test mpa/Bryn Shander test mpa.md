@@ -9,7 +9,7 @@ defaultZoom: 1
 zoomDelta: 0.5
 
 # marker: <type*>,<lat>,<long>,<link*>,<description*>
-marker: ,286,574,[[Les Lames de Fer-Noir]],"Les Lames de Fer-Noir"
+marker: ,286,574,[[2-World/Lieux/Les 10-Cités/Bryn Shander/Les Lames de Fer-Noir]],"Les Lames de Fer-Noir"
 marker: ,208,769,[[Maison du Seigneur du Matin]],"Maison du Seigneur du Matin"
 marker: ,162,498,[[Le Regard du Nord]],"Le Regard du Nord"
 marker: ,405,496,[[Au confort de Kelvin]],"Au confort de Kelvin"
