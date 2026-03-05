@@ -3,13 +3,15 @@ tags: [lieu/taverne]
 cité: [[Bremen]]
 ---
 # Place des Cinq-Tavernes
-[cite_start]Cinq tavernes indépendantes disposées en demi-cercle autour d'une place centrale au cœur de Bremen[cite: 259].
+%% %% Cinq établissements disposés en demi-cercle. %% %%
 
-**Les établissements :**
-* [cite_start]**Pierres** [cite: 259]
-* [cite_start]**La Quille** [cite: 259]
-* [cite_start]**l'Embouchure de la rivière** [cite: 259]
-* [cite_start]**L'Orignal grincheux** [cite: 259]
-* [cite_start]**Le Frère à barbe noire** [cite: 259]
+**Les Établissements :**
+1. **Pierres** : La plus ancienne.
+2. **La Quille** : Préférée des marins.
+3. **L'Embouchure de la Rivière** : Calme.
+4. **L'Orignal Grincheux** : Bruyante.
+5. **Le Frère à Barbe Noire** : Décorée de reliques naines.
 
-[cite_start]**Note :** Les tavernes sont vieilles, mal entretenues et les cinq propriétaires (des frères) se disputent constamment les clients[cite: 259].
+%% #secret 
+**Conflit :** Les cinq propriétaires sont des frères qui se détestent. %% %% Ils se battent pour le moindre client. %% %%
+%%
