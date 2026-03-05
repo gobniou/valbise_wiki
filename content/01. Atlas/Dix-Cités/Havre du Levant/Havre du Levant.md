@@ -26,22 +26,22 @@ VOYAGE PAR VOIE TERRESTRE
 
 SITES À HAVRE-DU-LEVANT
 
-La Truite Mouillée
+* La Truite Mouillée
 **Taverne**
 La plus grande taverne de la ville. Tenue par **Nymetra Myskyn**.
-* %% #secret **Le Culte d'Auril :** Nymetra est une fanatique de la Vierge de Glace. Elle surveille les clients et dénonce tout "blasphème" contre l'hiver aux autorités ou aux partisans de la déesse. %%
+ %% #secret **Le Culte d'Auril :** Nymetra est une fanatique de la Vierge de Glace. Elle surveille les clients et dénonce tout "blasphème" contre l'hiver aux autorités ou aux partisans de la déesse. %%
 
-L'Auberge de la Dame Blanche
+*  L'Auberge de la Dame Blanche
 **Hébergement**
 Tenue par **Bartaban**. Réputée hantée.
-* %% #secret **Le Fantôme :** La Dame Blanche est le spectre d'une femme elfe. Elle apparaît lors des nuits calmes. Si les joueurs l'aident (quête spécifique), elle peut révéler l'emplacement d'un trésor submergé dans le lac. %%
+%% #secret **Le Fantôme :** La Dame Blanche est le spectre d'une femme elfe. Elle apparaît lors des nuits calmes. Si les joueurs l'aident (quête spécifique), elle peut révéler l'emplacement d'un trésor submergé dans le lac. %%
 
-Hôtel de Ville
+* Hôtel de Ville
 **Administration et Prison**
 Un bâtiment robuste de deux étages.
-* %% #secret **Duergar Capturé :** La Capitaine Imdra détient un duergar nommé **Durth** dans les cellules. Il possède des informations cruciales sur la forteresse de [[Xardorok]]. %%
+ %% #secret **Duergar Capturé :** La Capitaine Imdra détient un duergar nommé **Durth** dans les cellules. Il possède des informations cruciales sur la forteresse de [[Xardorok]]. %%
 
-Le Ferry d'Havre-du-Levant
+* Le Ferry d'Havre-du-Levant
 **Transport (Hors service)**
 Coincé dans la glace. 
-* %% #secret **Infiltration :** Des Duergars invisibles utilisent le ferry comme base d'opération nocturne pour voler du chardalyn dans la ville. %%
+ %% #secret **Infiltration :** Des Duergars invisibles utilisent le ferry comme base d'opération nocturne pour voler du chardalyn dans la ville. %%
