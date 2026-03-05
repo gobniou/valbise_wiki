@@ -39,8 +39,8 @@ status: Alive
 
 **Rôle dans l'histoire :**
 Naerth est l'antagoniste politique principal du Chapitre 1. Il cherche à étendre l'influence de Targos (et du Zhentarim) sur les autres cités en manipulant les élections et en contrôlant les approvisionnements.
-%% #secret 
 
+%% #secret 
 ## 🕵️ SECRETS ET INFORMATIONS
 
 **Ce que Naerth cache :**
