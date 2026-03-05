@@ -15,13 +15,13 @@ leader: L'oratrice Waylen (humain neutre bon). La Capitaine Imdra Arlaggath (hum
 
 **L'Exécution du Sorcier :** À l'arrivée des PJ, un sorcier nommé **Dzaan** est brûlé sur le bûcher pour le meurtre d'une expédition. C'est un moment clé pour illustrer la dureté de la justice locale. 
 
-### VOYAGE PAR VOIE TERRESTRE
+## VOYAGE PAR VOIE TERRESTRE
 
 * **Bryn Shander :** 10,5 heures.
 * **Caer-Dineval :** Par le lac (si gelé) ou 7 heures par la côte.
 * **Bon Hydromel :** 4,5 heures.
 
-### SITES À HAVRE-DU-LEVANT
+## SITES À HAVRE-DU-LEVANT
 
 * La Truite Mouillée
 **Taverne**
