@@ -41,8 +41,9 @@ status: Alive
 **Rôle dans l'histoire :**
 Hlin est le donneur de quête pour **[[Tueur au Cœur de Glace]]**. C'est elle qui remarque le schéma derrière les meurtres et oriente les PJ vers Sephek Kaltro.
 
-## 🕵️ SECRETS ET INFORMATIONS
 %% #secret 
+## 🕵️ SECRETS ET INFORMATIONS
+
 **Ce que Hlin sait :**
 * **Le Tueur :** Elle est persuadée que Sephek Kaltro est le meurtrier, mais elle est trop vieille pour le traquer seule.
 * **L'Indice :** Elle a remarqué que Sephek ne porte jamais de vêtements d'hiver, même par -40°C.
@@ -59,9 +60,3 @@ Hlin est le donneur de quête pour **[[Tueur au Cœur de Glace]]**. C'est elle q
 
 ---
 
-### Ce qui a changé :
-1. **Propriété Voix :** Tu peux maintenant définir si ton PNJ a un accent, une voix aiguë ou s'il bégaie directement dans le haut de la fiche.
-2. **Correction Callout :** Le bloc `[!quote]` est maintenant bien séparé pour éviter les bugs d'affichage.
-3. **Maillage :** Le lien vers la quête du tueur est prêt.
-
-Est-ce que ce template te convient pour la suite ? Si oui, **souhaites-tu que je te prépare un lot de PNJs essentiels (Duvessa Shane, Trovus, Tali, etc.) ?**
