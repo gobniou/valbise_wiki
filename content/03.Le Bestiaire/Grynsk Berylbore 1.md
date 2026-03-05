@@ -1,4 +1,4 @@
-Grynsk Berylbore est un nain pêcheur de [[z_Templates/2-World/Lieux/Les 10-Cités/Bremen/Bremen]]. Il est propriétaire de deux bateaux, le Bélier Robuste et le Bouc Cornu, qu'il utilise pour envoyer des pêcheurs sur le lac à la recherche de [[Truite a Tete Plate]]
+Grynsk Berylbore est un nain pêcheur de [[2-World/Lieux/Les 10-Cités/Bremen/Bremen]]. Il est propriétaire de deux bateaux, le Bélier Robuste et le Bouc Cornu, qu'il utilise pour envoyer des pêcheurs sur le lac à la recherche de [[Truite a Tete Plate]]
 
 ## Description
 
