@@ -1,11 +1,5 @@
 ---
-width: 2048
-height: 1642
-scale: 25
-distance: 268
 NoteIcon: Settlement
-tags:
-  - Category/Settlement
 Convivialité: 2*
 Confort: 3*
 Services: 2*
@@ -15,18 +9,7 @@ Milice: **100 soldats** (guerriers tribaux) et **4 vétérans**.
 Rivalité: Caer-Dineval, Caer-Konig
 ---
 
----
-NoteIcon: Settlement
-tags: [Category/Settlement]
-Convivialité: 1*
-Confort: 3*
-Services: 1*
-leader: L'orateur Dorbulgruf Shalescar (nain d'écu, neutre bon)
-population: 150
-Milice: Bremen peut rassembler 25 soldats (guerriers tribaux) et 2 vétérans.
-Rivalité: Targos, Termalaine, Bois Isolé
-Sacrifice: Chaleur
----
+
 
 ![[Blason - Easthaven.png]]
 
