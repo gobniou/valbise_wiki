@@ -10,8 +10,7 @@ Rivalité: Aucune
 Milice: 250 soldats (guerriers tribaux) et 20 vétérans
 leader: L'oratrice Duvessa Shane (humaine noble, loyale bonne). Le shérif Markham Southwell (humain vétéran, loyal bon) commande la milice.
 ---
-
-![[Blason - Bryn Shander.png]]
+![[Blason - Bryn Shader.png]]
 
 **Bryn Shander** est la capitale cosmopolite des Dix-Cités et le premier arrêt pour la plupart des voyageurs venant du sud. Perchée sur une colline aride, c'est la seule colonie qui n'est pas située sur les rives d'un lac. Ses murailles de pierre de **10 mètres de haut** sont les plus imposantes du Valbise, offrant un sentiment de sécurité que l'on ne trouve nulle part ailleurs dans la région.
 
