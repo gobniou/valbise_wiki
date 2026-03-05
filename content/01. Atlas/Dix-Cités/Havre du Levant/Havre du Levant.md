@@ -5,13 +5,14 @@ Confort: 3*
 Services: 2*
 population: 750
 Rivalité: Caer-Dineval, Caer-Konig
-Milice: 100 soldats (guerriers tribaux) et 4 vétérans.
+Milice: 100 soldats (guerriers tribaux) et 4 vétérans
+leader: L'oratrice Waylen (humain neutre bon). La Capitaine Imdra Arlaggath (humaine, vétéran) dirige la milice.
 ---
 
 
 
 
-leader: L'oratrice Waylen (humain neutre bon). La Capitaine Imdra Arlaggath (humaine, vétéran) dirige la milice.
+
 ![[Blason - Easthaven.png]]
 
 **Havre-du-Levant** (Easthaven) est le joyau de Lac Dinneshere. Ville de pêcheurs et de marchands, elle est en pleine expansion mais reste hantée par la paranoïa. 
