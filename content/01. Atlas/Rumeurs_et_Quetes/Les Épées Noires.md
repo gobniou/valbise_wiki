@@ -28,10 +28,10 @@ tags:
 > Loot possible | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Loot acquis | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-Le village de [[Caer-Dineval]] est sous l'emprise silencieuse d'un culte. Des chevaliers en armure noire occupent **[[Le Caer]]** (le château) et retiennent l'orateur prisonnier. Ces cultistes sont dévoués à **Levistus** et luttent secrètement contre les Duergars.
+Le village de [[2-World/Lieux/Les 10-Cités/Caer-Dineval/Caer-Dineval]] est sous l'emprise silencieuse d'un culte. Des chevaliers en armure noire occupent **[[2-World/Lieux/Les 10-Cités/Caer-Dineval/Le Caer]]** (le château) et retiennent l'orateur prisonnier. Ces cultistes sont dévoués à **Levistus** et luttent secrètement contre les Duergars.
 
 ### Obtenir la quête
-- Discuter avec les habitants méfiants à **[[L'Ascension Difficile]]**.
+- Discuter avec les habitants méfiants à **[[2-World/Lieux/Les 10-Cités/Caer-Dineval/L'Ascension Difficile]]**.
 - Tenter d'entrer dans le château.
 
 ### Récompenses
@@ -39,6 +39,6 @@ Le village de [[Caer-Dineval]] est sous l'emprise silencieuse d'un culte. Des ch
 - Accès aux informations sur la forteresse de **[[Xardorok Sunblight]]**.
 
 ### Étapes de la quête
-- [ ] S'infiltrer dans [[Le Caer]].
+- [ ] S'infiltrer dans [[2-World/Lieux/Les 10-Cités/Caer-Dineval/Le Caer]].
 - [ ] Rencontrer **Kadroth**, le chef du culte.
 - [ ] Libérer l'Orateur ou pactiser avec les Épées Noires.

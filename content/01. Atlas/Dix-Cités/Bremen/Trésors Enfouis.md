@@ -15,5 +15,5 @@ L'intérieur est propre mais vide. Cora Mulphoon accueille les voyageurs avec un
 **Le Secret de Cora :**
 * Son fils, Huarwar, a été sauvé d'un blizzard par deux tieffelins. %% %%
 * Il a ramené un éclat de chardalyn qui l'a corrompu. %% %%
-* Il est parti avec eux vers le château de [[Caer-Dineval]]. %% %%
+* Il est parti avec eux vers le château de [[2-World/Lieux/Les 10-Cités/Caer-Dineval/Caer-Dineval]]. %% %%
 %%

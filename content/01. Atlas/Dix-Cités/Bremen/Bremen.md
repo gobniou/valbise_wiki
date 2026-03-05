@@ -28,7 +28,7 @@ Une neige abondante a effacé la piste qui guidait autrefois les voyageurs vers 
 **Auberge**
 Cette auberge s'adresse aux chercheurs de trésors cherchant le long des berges de la rivière. Tenue par **Cora Mulphoon** (roturière humaine neutre bonne), qui traite ses clients comme des rois malgré ses difficultés financières.
  %% #secret **La Perte de Cora :** Son fils Huarwar a disparu il y a deux mois après avoir été séparé d'une équipe de recherche. Il est revenu avec des engelures et un éclat de **glace noire** (chardalyn) qui l'a rendu méchant. %%
- %% #secret **Le Départ :** Deux Tieffelins sont venus chercher Huarwar pour l'emmener dans "leur château". Huarwar se trouve actuellement au donjon de [[Caer-Dineval]] avec les Épées Noires. %%
+ %% #secret **Le Départ :** Deux Tieffelins sont venus chercher Huarwar pour l'emmener dans "leur château". Huarwar se trouve actuellement au donjon de [[2-World/Lieux/Les 10-Cités/Caer-Dineval/Caer-Dineval]] avec les Épées Noires. %%
 
 * Place des Cinq-Tavernes
 **Tavernes**

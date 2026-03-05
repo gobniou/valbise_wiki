@@ -18,7 +18,7 @@ Ce tableau répertorie où chaque aventure commence. Utilisez les liens pour acc
 | **[[Termalaine]]** | [[Une Mine Magnifique]] | [[Oarus Masthew]] | Nettoyage de Donjon |
 | **[[Bois Isolé]]** | [[L'Élan Blanc]] | [[Nivil Loushk]] | Chasse / Combat |
 | **[[Caer-Konig]]** | [[L'Invisible]] | [[Trovus]] | Infiltration / Traque |
-| **[[Caer-Dineval]]** | [[Les Épées Noires]] | [[Hettie]] | Politique / Culte |
+| **[[2-World/Lieux/Les 10-Cités/Caer-Dineval/Caer-Dineval]]** | [[Les Épées Noires]] | [[Hettie]] | Politique / Culte |
 | **[[Havre-du-Levant]]** | [[Maudite Sorcellerie]] | [[Imdra Arlaggath]] | Combat de Boss / Exploration |
 | **[[Bon Hydromel]]** | [[L'Hydromel doit Couler]] | Citoyens | Récupération / Géants |
 | **[[Brèche de Dougan]]** | [[L'Antre des Loups]] | [[Edgra Durridge]] | Négociation / Sauvetage |
