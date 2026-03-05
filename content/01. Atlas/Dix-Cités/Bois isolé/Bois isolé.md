@@ -15,5 +15,6 @@ icon: 🌲
 * **Le Chanceux Lowlander :** Taverne et auberge tenue par Danae Xavkas. %% %% %% #secret Danae est une espionne de Thay qui a fui ses anciens maîtres. %%
 * **L'Écrivain Heureux :** Magasin général proposant des fournitures rares. %% %% %% #secret Le propriétaire est un ancien scribe de la Porte de Baldur. %%
 
+#secret
 **Le Danger :**
-* %% #secret **L'Élan Blanc :** Une créature maléfique massacre les bûcherons en forêt, dirigée par un druide d'Auril. %%
+* %% **L'Élan Blanc :** Une créature maléfique massacre les bûcherons en forêt, dirigée par un druide d'Auril. %%
