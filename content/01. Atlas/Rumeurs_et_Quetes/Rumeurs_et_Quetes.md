@@ -11,29 +11,29 @@ Ce tableau répertorie où chaque aventure commence. Utilisez les liens pour acc
 
 | Cité | Quête | Donneur de Quête | Type d'Objectif |
 | :--- | :--- | :--- | :--- |
-| **[[Bryn Shander]]** | [[Le_Traîneau_de_Lingots]] | 3 Nains d'Écu | Récupération / Escorte |
-| **[[Bryn Shander]]** | [[Esprits_de_la_Nature]] | [[Copper Knobberknocker]] | Observation / Exploration |
-| **[[Bremen]]** | [[Le_Monstre_du_Lac]] | [[Tali]] | Enquête / Diplomatie |
-| **[[Targos]]** | [[Escalade_de_la_Montagne]] | [[Keegan Velryn]] | Sauvetage / Survie |
-| **[[Termalaine]]** | [[Une_Mine_Magnifique]] | [[Oarus Masthew]] | Nettoyage de Donjon |
-| **[[Bois Isolé]]** | [[L_Élan_Blanc]] | [[Nivil Loushk]] | Chasse / Combat |
-| **[[Caer-Konig]]** | [[L_Invisible]] | [[Trovus]] | Infiltration / Traque |
-| **[[Caer-Dineval]]** | [[Les_Épées_Noires]] | [[Hettie]] | Politique / Culte |
-| **[[Havre-du-Levant]]** | [[Maudite_Sorcellerie]] | [[Imdra Arlaggath]] | Combat de Boss / Exploration |
-| **[[Bon Hydromel]]** | [[L_Hydromel_doit_Couler]] | Citoyens | Récupération / Géants |
-| **[[Brèche de Dougan]]** | [[L_Antre_des_Loups]] | [[Edgra Durridge]] | Négociation / Sauvetage |
-| **Itinérant** | [[Tueur_au_Coeur_de_Glace]] | [[Hlin Fléau-des-trolls]] | Enquête / Assassinat |
+| **[[Bryn Shander]]** | [[Le Traîneau de Lingots]] | 3 Nains d'Écu | Récupération / Escorte |
+| **[[Bryn Shander]]** | [[Esprits de la Nature]] | [[Copper Knobberknocker]] | Observation / Exploration |
+| **[[Bremen]]** | [[Le Monstre du Lac]] | [[Tali]] | Enquête / Diplomatie |
+| **[[Targos]]** | [[Escalade de la Montagne]] | [[Keegan Velryn]] | Sauvetage / Survie |
+| **[[Termalaine]]** | [[Une Mine Magnifique]] | [[Oarus Masthew]] | Nettoyage de Donjon |
+| **[[Bois Isolé]]** | [[L'Élan Blanc]] | [[Nivil Loushk]] | Chasse / Combat |
+| **[[Caer-Konig]]** | [[L'Invisible]] | [[Trovus]] | Infiltration / Traque |
+| **[[Caer-Dineval]]** | [[Les Épées Noires]] | [[Hettie]] | Politique / Culte |
+| **[[Havre-du-Levant]]** | [[Maudite Sorcellerie]] | [[Imdra Arlaggath]] | Combat de Boss / Exploration |
+| **[[Bon Hydromel]]** | [[L'Hydromel doit Couler]] | Citoyens | Récupération / Géants |
+| **[[Brèche de Dougan]]** | [[L'Antre des Loups]] | [[Edgra Durridge]] | Négociation / Sauvetage |
+| **Itinérant** | [[Tueur au Cœur de Glace]] | [[Hlin Fléau-des-trolls]] | Enquête / Assassinat |
 
 ---
 
 ## 💡 Notes de Campagne
 
 > [!tip] Quêtes de départ suggérées
-> Pour un début de campagne fluide, je vous conseille de commencer par **[[Le_Traîneau_de_Lingots]]** si vos joueurs aiment le combat urbain, ou **[[Le_Monstre_du_Lac]]** s'ils préfèrent l'exploration et les créatures étranges.
+> Pour un début de campagne fluide, je vous conseille de commencer par **[[Le Traîneau de Lingots]]** si vos joueurs aiment le combat urbain, ou **[[Le Monstre du Lac]]** s'ils préfèrent l'exploration et les créatures étranges.
 
 > [!warning] La Menace Duergar
 > Gardez un œil sur les quêtes de **[[Caer-Konig]]** et **[[Havre-du-Levant]]**. Elles introduisent les **Duergars**, qui sont les antagonistes majeurs de la première moitié de la campagne.
 
 ## 🔗 Liens Rapides
 - [[02_Atlas/Dix-Cités/|Accès au dossier des Cités]]
-- [[Tueur_au_Coeur_de_Glace|Suivi du Tueur en série (Quête Fil Rouge)]]
+- [[Tueur au Cœur de Glace|Suivi du Tueur en série (Quête Fil Rouge)]]
