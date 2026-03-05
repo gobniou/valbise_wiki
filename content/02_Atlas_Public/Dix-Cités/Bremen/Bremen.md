@@ -1,29 +1,31 @@
 ---
-tags: [lieu/cité, capitale]
-icon: 🏰
+NoteIcon: Settlement
+tags: [Category/Settlement]
+Convivialité: 1*
+Confort: 3*
+Services: 1*
+leader: L'orateur Dorbulgruf Shalescar (nain d'écu, neutre bon)
+population: 150
+Milice: Bremen peut rassembler 25 soldats (guerriers tribaux) et 2 vétérans.
+Rivalité: Targos, Termalaine, Bois Isolé
+Sacrifice: Chaleur
 ---
-# Bryn Shander
-%% %% Perchée sur une colline isolée, Bryn Shander est la seule des Dix-Cités à ne pas être située sur les rives d'un lac. Ses murs de 10 mètres de haut en font le refuge le plus sûr du Valbise. %% %%
+# Bremen
+%% %% Fondée par des nains, Bremen est située sur la rive ouest du Maer Dualdon. %% %% Le port est pris dans les glaces, obligeant les pêcheurs à traîner leurs barques. %% %%
 
-**Informations Logistiques :**
-* **Population :** 1 200 habitants. %% %%
-* **Dirigeante :** L'oratrice Duvessa Shane (noble). %% %%
-* **Défense :** 20 vétérans et 250 miliciens (Guerriers Tribaux). %% %%
-* **Sacrifice :** Humanoïde (Loterie). %% %% %% #secret Les noms des familles les plus riches sont parfois discrètement retirés de l'urne par des officiels corrompus. %%
-* **Rivalités :** Aucune (ville centrale). %% %%
+**Ambiance :**
+Le village est plongé dans un silence lugubre, brisé seulement par le vent. %% %% Les habitants sont épuisés par le froid et le manque de nourriture. %% %%
 
-**Ambiance et Services :**
-* **Convivialité :** ❄️❄️ %% %% L'hiver a rendu les gens méfiants, mais l'accueil reste professionnel. %% %%
-* **Confort :** ❄️❄️❄️❄️ %% %% Les auberges sont solides et bien chauffées. %% %%
-* **Services :** ❄️❄️❄️ %% %% On y trouve presque tout l'équipement de base. %% %%
+**Lieux Importants :**
+* [[Trésors Enfouis]] : L'unique auberge.
+* [[Place des Cinq-Tavernes]] : Le centre social.
 
-**Lieux Notables :**
-* **Les Lames de Fer-Noir :** Forge tenue par Garn et sa sœur Elza. %% %% %% #secret Ils vendent des armes de qualité "correcte" mais Garn soupçonne que les duergars locaux utilisent de l'acier supérieur. %%
-* **Maison du Seigneur du Matin :** Sanctuaire d'Amaunator dirigé par Mishann. %% %% %% #secret Mishann héberge en secret Copper Knobberknocker, un gnome qui cherche un moyen de soigner la "folie des glaces". %%
-* **Le Regard du Nord :** La taverne de Scramsax, centre des rumeurs. %% %% %% #secret Une truite empaillée nommée l'Vieux Mordeur est accrochée au mur. Elle contient une chevalière magique que Scramsax a oubliée. %%
-* **Les Flasques Écumantes :** Taverne tenue par les naines Beldora et Runa. %% %% %% #secret Beldora est une espionne des Ménestrels qui surveille l'influence du Zhentarim. %%
+**Logistique de Voyage (à pied) :**
+* Vers Targos : 2 heures.
+* Vers Bryn Shander : via Targos (4 heures total).
 
-**Voyage depuis Bryn Shander (à pied) :**
-* Havre-du-Levant : 10,5 h. %% %%
-* Targos : 2 h. %% %%
-* Termalaine : 6 h. %% %%
+%% #secret 
+**Secrets de l'Orateur :**
+* Dorbulgruf est sénile. Il s'égare souvent sur les rives de la Shaengarne. %% %%
+* Les habitants craignent que Targos n'annexe Bremen si l'orateur meurt. %% %%
+%%
