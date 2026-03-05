@@ -9,22 +9,19 @@ Milice: 100 soldats (guerriers tribaux) et 4 vétérans
 leader: L'oratrice Waylen (humain neutre bon). La Capitaine Imdra Arlaggath (humaine, vétéran) dirige la milice.
 ---
 
-
-
-
-
 ![[Blason - Easthaven.png]]
 
 **Havre-du-Levant** (Easthaven) est le joyau de Lac Dinneshere. Ville de pêcheurs et de marchands, elle est en pleine expansion mais reste hantée par la paranoïa. 
 
 **L'Exécution du Sorcier :** À l'arrivée des PJ, un sorcier nommé **Dzaan** est brûlé sur le bûcher pour le meurtre d'une expédition. C'est un moment clé pour illustrer la dureté de la justice locale. 
 
-VOYAGE PAR VOIE TERRESTRE
+### VOYAGE PAR VOIE TERRESTRE
+
 * **Bryn Shander :** 10,5 heures.
 * **Caer-Dineval :** Par le lac (si gelé) ou 7 heures par la côte.
 * **Bon Hydromel :** 4,5 heures.
 
-SITES À HAVRE-DU-LEVANT
+### SITES À HAVRE-DU-LEVANT
 
 * La Truite Mouillée
 **Taverne**
