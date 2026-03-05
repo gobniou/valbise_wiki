@@ -8,13 +8,13 @@ obsidianUIMode: preview
 > [![[Northern Faerun Map.jpg\|sban htiny ctr]]](2-World/Lieux/Les%2010-Cités/Bremen/Bremen.md)
 > 
 > **[[Link]]**
-> [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
+> [![[public/Assets/Placeholder-Images/JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
 >
 > **[[Link]]**
-> [![[AdventureIcon.png\|sban htiny ctr]]](2-World/Lieux/Les%2010-Cités/Bremen/Bremen.md)
+> [![[public/Assets/Placeholder-Images/AdventureIcon.png\|sban htiny ctr]]](2-World/Lieux/Les%2010-Cités/Bremen/Bremen.md)
 > 
 > **[[Link]]**
-> [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
+> [![[public/Assets/Placeholder-Images/PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
 
 
 > [!infobox]

@@ -7,7 +7,7 @@ kanban-plugin: board
 - [ ] This DM Screen is designed to link to the notes created with the CLI process. Simply complete the process and drop them into your vault and this screen should come alive. <br><br>Don't click any links until you complete this as it will create empty notes with duplicate names. <br><br>[CLI Process](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials)<br><br>**IMPORTANT**<br>I see lots of people reporting broken links with this step. When you run the CLI process you must include the PHB in the 'Books' section of your config file as the 'From' section does not create the notes that you need. See the [Configuration File Documentation](https://github.com/ebullient/ttrpg-convert-cli/blob/main/docs/configuration.md) for details.<br><br>Delete this card one done.
 
 
-## ![[AbilitiesTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/AbilitiesTitleBar.png]]
 
 - [ ] [[08-using-ability-scores#Dexterity|Dexterity]]
 - [ ] [[08-using-ability-scores#Strength|Strength]]
@@ -17,7 +17,7 @@ kanban-plugin: board
 - [ ] [[08-using-ability-scores#Charisma|Charisma]]
 
 
-## ![[CheckTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/CheckTitleBar.png]]
 
 - [ ] [[ability-checks-typical-difficulty-classes|Ability Checks; Typical Difficulty Classes]]
 - [ ] [[09-adventuring#Vision and Light|Vision and Light]]
@@ -30,27 +30,27 @@ kanban-plugin: board
 - [ ] [[08-using-ability-scores#Lifting and Carrying|Lifting and Carrying]]
 
 
-## ![[ConditionsTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/ConditionsTitleBar.png]]
 
-- [ ] [[Conditions#Blinded|Blinded]]
-- [ ] [[Conditions#Charmed|Charmed]]
-- [ ] [[Conditions#Concentration|Concentration]]
-- [ ] [[Conditions#Deafened|Deafened]]
-- [ ] [[Conditions#Exhaustion|Exhaustion]]
-- [ ] [[Conditions#Frightened|Frightened]]
-- [ ] [[Conditions#Grappled|Grappled]]
-- [ ] [[Conditions#Incapacitated|Incapacitated]]
-- [ ] [[Conditions#Invisible|Invisible]]
-- [ ] [[Conditions#Paralyzed|Paralyzed]]
-- [ ] [[Conditions#Petrified|Petrified]]
-- [ ] [[Conditions#Poisoned|Poisoned]]
-- [ ] [[Conditions#Prone|Prone]]
-- [ ] [[Conditions#Restrained|Restrained]]
-- [ ] [[Conditions#Stunned|Stunned]]
-- [ ] [[Conditions#Unconscious|Unconscious]]
+- [ ] [[conditions#Blinded|Blinded]]
+- [ ] [[conditions#Charmed|Charmed]]
+- [ ] [[conditions#Concentration|Concentration]]
+- [ ] [[conditions#Deafened|Deafened]]
+- [ ] [[conditions#Exhaustion|Exhaustion]]
+- [ ] [[conditions#Frightened|Frightened]]
+- [ ] [[conditions#Grappled|Grappled]]
+- [ ] [[conditions#Incapacitated|Incapacitated]]
+- [ ] [[conditions#Invisible|Invisible]]
+- [ ] [[conditions#Paralyzed|Paralyzed]]
+- [ ] [[conditions#Petrified|Petrified]]
+- [ ] [[conditions#Poisoned|Poisoned]]
+- [ ] [[conditions#Prone|Prone]]
+- [ ] [[conditions#Restrained|Restrained]]
+- [ ] [[conditions#Stunned|Stunned]]
+- [ ] [[conditions#Unconscious|Unconscious]]
 
 
-## ![[CombatActionsTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/CombatActionsTitleBar.png]]
 
 - [ ] [[actions#Actions#Activate an Item|Activate an Item]]
 - [ ] [[actions#Actions#Attack|Attack]]
@@ -66,7 +66,7 @@ kanban-plugin: board
 - [ ] [[actions#Actions#Escape a Grapple|Escape a Grapple]]
 
 
-## ![[MiscCombatRulesTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/MiscCombatRulesTitleBar.png]]
 
 - [ ] [[10-combat#Surprise|Surprise]]
 - [ ] [[10-combat#Initiative|Initiative]]
@@ -82,7 +82,7 @@ kanban-plugin: board
 - [ ] [[10-combat#Mounted Combat|Mounted Combat]]
 
 
-## ![[MovementTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/MovementTitleBar.png]]
 
 - [ ] [[09-adventuring#Movement|Movement]]
 - [ ] [[09-adventuring#Difficult Terrain|Difficult Terrain]]
@@ -96,7 +96,7 @@ kanban-plugin: board
 - [ ] [[09-adventuring#Movement#Activity While Traveling|Activity While Traveling]]
 
 
-## ![[RestTravelTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/RestTravelTitleBar.png]]
 
 - [ ] [[09-adventuring#Food and Water|Food and Water]]
 - [ ] [[09-adventuring#Resting|Resting]]
@@ -105,7 +105,7 @@ kanban-plugin: board
 - [ ] [[09-adventuring#Recuperating|Recuperating]]
 
 
-## ![[HealDeathDmgTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/HealDeathDmgTitleBar.png]]
 
 - [ ] [[10-combat#Damage and Healing#Healing|Healing]]
 - [ ] [[10-combat#Dropping to 0 Hit Points#Instant Death|Instant Death]]
@@ -115,13 +115,13 @@ kanban-plugin: board
 - [ ] [[10-combat#Dropping to 0 Hit Points#Monsters and Death|Monsters and Death]]
 
 
-## ![[WeaponsArmorItemsTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/WeaponsArmorItemsTitleBar.png]]
 
 - [ ] [[weapons|Weapons]]
 - [ ] [[armor-and-shields-armor|Armor and Shields]]
 
 
-## ![[MagicTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/MagicTitleBar.png]]
 
 - [ ] [[wizard-school-of-abjuration|Abjuration]]
 - [ ] [[wizard-school-of-conjuration|Conjuration]]
@@ -133,26 +133,26 @@ kanban-plugin: board
 - [ ] [[wizard-school-of-transmutation|Transmutation]]
 
 
-## ![[SkillsTitleBar.png]]
+## ![[public/Assets/Placeholder-Images/SkillsTitleBar.png]]
 
-- [ ] [[Skills#Acrobatics|Acrobatics]]
-- [ ] [[Skills#Animal Handling|Animal Handling]]
-- [ ] [[Skills#Arcana|Arcana]]
-- [ ] [[Skills#Athletics|Athletics]]
-- [ ] [[Skills#Deception|Deception]]
-- [ ] [[Skills#History|History]]
-- [ ] [[Skills#Insight|Insight]]
-- [ ] [[Skills#Intimidation|Intimidation]]
-- [ ] [[Skills#Investigation|Investigation]]
-- [ ] [[Skills#Medicine|Medicine]]
-- [ ] [[Skills#Nature|Nature]]
-- [ ] [[Skills#Perception|Perception]]
-- [ ] [[Skills#Performance|Performance]]
-- [ ] [[Skills#Persuasion|Persuasion]]
-- [ ] [[Skills#Religion|Religion]]
-- [ ] [[Skills#Sleight of Hand|Sleight of Hand]]
-- [ ] [[Skills#Stealth|Stealth]]
-- [ ] [[Skills#Survival|Survival]]
+- [ ] [[skills#Acrobatics|Acrobatics]]
+- [ ] [[skills#Animal Handling|Animal Handling]]
+- [ ] [[skills#Arcana|Arcana]]
+- [ ] [[skills#Athletics|Athletics]]
+- [ ] [[skills#Deception|Deception]]
+- [ ] [[skills#History|History]]
+- [ ] [[skills#Insight|Insight]]
+- [ ] [[skills#Intimidation|Intimidation]]
+- [ ] [[skills#Investigation|Investigation]]
+- [ ] [[skills#Medicine|Medicine]]
+- [ ] [[skills#Nature|Nature]]
+- [ ] [[skills#Perception|Perception]]
+- [ ] [[skills#Performance|Performance]]
+- [ ] [[skills#Persuasion|Persuasion]]
+- [ ] [[skills#Religion|Religion]]
+- [ ] [[skills#Sleight of Hand|Sleight of Hand]]
+- [ ] [[skills#Stealth|Stealth]]
+- [ ] [[skills#Survival|Survival]]
 
 
 

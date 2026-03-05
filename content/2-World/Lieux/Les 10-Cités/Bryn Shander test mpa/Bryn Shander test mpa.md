@@ -1,5 +1,5 @@
 id: bryn-map
-image: [[Assets/Maps/Bryn.jpg]]
+image: [[public/Assets/Maps/Bryn.jpg]]
 bounds:
   - [0, 0]            # top-left (lat, long)
   - [HEIGHT, WIDTH]   # bottom-right -> [image height, image width]
