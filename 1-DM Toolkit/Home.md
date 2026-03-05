@@ -8,7 +8,7 @@ obsidianUIMode: preview
 > [![[Northern Faerun Map.jpg\|sban htiny ctr]]](2-World/Lieux/Les%2010-Cités/Bremen/Bremen.md)
 > 
 > **[[Link]]**
-> [![[public/Assets/Placeholder-Images/JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
+> [![[public/Assets/Placeholder-Images/JourneyBoard.png\|sban htiny ctr]]](Journey%20Board.md)
 >
 > **[[Link]]**
 > [![[public/Assets/Placeholder-Images/AdventureIcon.png\|sban htiny ctr]]](2-World/Lieux/Les%2010-Cités/Bremen/Bremen.md)
