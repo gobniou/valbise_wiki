@@ -27,7 +27,7 @@ Rôle: Sorcier (Arcane Brotherhood)
 ---
 
 # Prisonnier 237 — Vaelish Gant
-![[Assets/PNJ/Prisonnier_237.jpg]]
+![[public/2-World/Assets/PNJ/Prisonnier_237.jpg]]
 > (Description:: Mage de la Confrérie des Arcanes, prisonnier redouté. L'air dur, calculateur ; prêt à tout pour retrouver son influence.)
 
 Infos||

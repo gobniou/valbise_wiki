@@ -27,7 +27,7 @@ Rôle: Gardien magique
 ---
 
 # Main de Bigby Vivante
-![[Assets/PNJ/Main_de_Bigby_Vivante.jpg]]
+![[public/2-World/Assets/PNJ/main_de_bigby_vivante.jpg]]
 > (Description:: Une main colossale de magie vivante, forgée à partir des restes d’un sort de Bigby. Elle se déplace en flottant, écrasant et saisissant ses ennemis comme si elle possédait une volonté propre.)
 
 Infos||

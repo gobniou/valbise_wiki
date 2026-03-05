@@ -26,7 +26,7 @@ Rôle: Familier / Animal
 ---
 
 # Kingsport
-![[Assets/PNJ/Kingsport.jpg]]
+![[public/2-World/Assets/PNJ/Kingsport.jpg]]
 > (Description:: Oiseau aquatique trapu, vaguement comique avec ses plumes dressées et ses airs maladroits. Malgré son aspect, c’est un compagnon fidèle.)
 
 Infos||

@@ -26,7 +26,7 @@ Rôle: Simulacre arcanique
 ---
 
 # Simulacre de Dzaan
-![[Assets/PNJ/Simulacre_Dzaan.jpg]]
+![[public/2-World/Assets/PNJ/Simulacre_Dzaan.jpg]]
 > (Description:: Copie imparfaite de Dzaan, créée par magie. Un simulacre glacé au regard vide, mais qui conserve une partie des capacités magiques de l’original.)
 
 Infos||

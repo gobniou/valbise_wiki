@@ -26,7 +26,7 @@ Rôle: Guerrier corrompu
 ---
 
 # Berserker de Chardalyn
-![[Assets/PNJ/Berserker_de_Chardalyn.jpg]]
+![[public/2-World/Assets/PNJ/berserker_de_chardalyn.jpg]]
 > (Description:: Guerrier fanatique dont l’âme a été corrompue par le chardalyn, cristal noir maudit. Ses accès de folie et sa témérité le rendent aussi imprévisible que dangereux.)
 
 Infos||

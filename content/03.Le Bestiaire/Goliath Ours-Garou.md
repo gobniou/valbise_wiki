@@ -28,7 +28,7 @@ Rôle: Guerrier lycanthrope
 ---
 
 # Goliath, Ours-Garou
-![[Assets/PNJ/Goliath_Ours_Garou.jpg]]
+![[public/2-World/Assets/PNJ/goliath_ours_garou.jpg]]
 > (Description:: Ce goliath colossal est marqué par la malédiction de la lycanthropie. Dans sa forme d’ours, il incarne la puissance brute et la sauvagerie, mais conserve des traces de son héritage montagnard.)
 
 Infos||

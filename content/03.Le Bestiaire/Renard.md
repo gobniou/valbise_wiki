@@ -26,7 +26,7 @@ Rôle: Animal
 ---
 
 # Renard
-![[Assets/PNJ/Renard.jpg]]
+![[public/2-World/Assets/PNJ/renard.jpg]]
 > (Description:: Petit carnivore rusé et discret, le renard est un animal souvent utilisé comme éclaireur naturel ou compagnon par les druides et rôdeurs.)
 
 Infos||

@@ -26,7 +26,7 @@ Rôle: Soldat défensif
 ---
 
 # Duergar, Gardepierre
-![[Assets/PNJ/Duergar_Gardepierre.jpg]]
+![[public/2-World/Assets/PNJ/duergar_gardepierre.jpg]]
 > (Description:: Guerriers duergars lourdement armés, spécialisés dans les formations défensives. Ils excellent à combattre en phalange, formant une ligne impénétrable avec leurs boucliers.)
 
 Infos||

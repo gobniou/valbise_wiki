@@ -27,7 +27,7 @@ Rôle: Gardien antique
 ---
 
 # Thaalud / Percetombe
-![[Assets/PNJ/Thaalud_Percetombe.jpg]]
+![[public/2-World/Assets/PNJ/thaalud_percetombe.jpg]]
 > (Description:: Un gigantesque artificiel gardien des profondeurs, sculpté dans la pierre et animé par une magie antique. Il incarne l’implacable justice des anciens peuples.)
 
 Infos||

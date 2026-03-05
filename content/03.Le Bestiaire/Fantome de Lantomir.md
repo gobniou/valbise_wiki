@@ -26,7 +26,7 @@ Rôle: Esprit vengeur
 ---
 
 # Fantôme de Lantomir
-![[Assets/PNJ/Fantome_de_Lantomir.jpg]]
+![[public/2-World/Assets/PNJ/Fantome_de_Lantomir.jpg]]
 > (Description:: Esprit spectral lié aux froides terres de Valbise. Son aura effraie et glace l’âme, tandis que ses yeux révèlent une colère éternelle.)
 
 Infos||

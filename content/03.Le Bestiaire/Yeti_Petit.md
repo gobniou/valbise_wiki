@@ -26,7 +26,7 @@ Rôle: Prédateur arctique
 ---
 
 # Yéti Petit
-![[Assets/PNJ/Yeti_Petit.jpg]]
+![[public/2-World/Assets/PNJ/yeti_petit.jpg]]
 > (Description:: Une petite créature monstrueuse des montagnes enneigées, souvent en meute. Bien qu’il soit faible seul, il reste dangereux en groupe, grâce à sa résistance au froid et ses griffes acérées.)
 
 Infos||

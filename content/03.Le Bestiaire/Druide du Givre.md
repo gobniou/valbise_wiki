@@ -27,7 +27,7 @@ Rôle: Lanceur de sorts / Métamorphe
 ---
 
 # Druide du Givre
-![[Assets/PNJ/Druide_du_Givre.jpg]]
+![[public/2-World/Assets/PNJ/druide_du_givre.jpg]]
 > (Description:: Mystiques du froid, ces druides servent les forces glacées de la nature et peuvent se transformer en bêtes arctiques. Leur magie repose sur la neige, le vent et la glace.)
 
 Infos||

@@ -26,7 +26,7 @@ Rôle: Animal aquatique
 ---
 
 # Phoque
-![[Assets/PNJ/Phoque.jpg]]
+![[public/2-World/Assets/PNJ/phoque.jpg]]
 > (Description:: Un phoque paisible vivant dans les eaux froides, agile sous l’eau mais vulnérable sur terre. Il survit grâce à son instinct et son odorat affûté.)
 
 Infos||

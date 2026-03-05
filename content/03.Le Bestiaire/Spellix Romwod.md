@@ -26,7 +26,7 @@ Rôle: Monstre
 ---
 
 # Spellix Romwod
-![[Assets/PNJ/Spellix_Romwod.jpg]]
+![[public/2-World/Assets/PNJ/Spellix_Romwod.jpg]]
 > (Description:: Gnome extravagant, ancien acteur de théâtre reconverti en mage itinérant. Sa mise théâtrale cache une lâcheté profonde et une tendance à exagérer ses exploits.)
 
 Infos||

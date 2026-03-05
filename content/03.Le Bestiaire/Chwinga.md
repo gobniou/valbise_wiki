@@ -26,7 +26,7 @@ Rôle: Esprit élémentaire
 ---
 
 # Chwinga
-![[Assets/PNJ/Chwinga.jpg]]
+![[public/2-World/Assets/PNJ/chwinga.jpg]]
 > (Description:: Petit esprit élémentaire, mystérieux et bienveillant, souvent associé aux phénomènes naturels. Ses gestes sont discrets mais imprégnés de magie subtile.)
 
 Infos||

@@ -27,7 +27,7 @@ Rôle: Animal aquatique
 ---
 
 # Truite à Tête Plate
-![[Assets/PNJ/Truite_a_Tete_Plate.jpg]]
+![[public/2-World/Assets/PNJ/Truite_a_Tete_Plate.jpg]]
 > (Description:: Ce poisson massif aux mâchoires puissantes hante les rivières froides. Il est redouté pour sa morsure et sa capacité à surprendre les imprudents.)
 
 Infos||

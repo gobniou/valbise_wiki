@@ -26,7 +26,7 @@ Rôle: Prédateur magique
 ---
 
 # Lion des Neiges
-![[Assets/PNJ/Lion_des_Neiges.jpg]]
+![[public/2-World/Assets/PNJ/lion_des_neiges.jpg]]
 > (Description:: Prédateur majestueux et surnaturel, ce lion vit dans les contrées enneigées et résiste même aux sorts les plus puissants. Sa discrétion et sa férocité en font une créature redoutée.)
 
 Infos||

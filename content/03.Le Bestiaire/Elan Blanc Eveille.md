@@ -27,7 +27,7 @@ Rôle: Monstre
 ---
 
 # Élan Blanc Éveillé
-![[Assets/PNJ/Elan_Blanc_Eveille.jpg]]
+![[public/2-World/Assets/PNJ/Elan_Blanc_Eveille.jpg]]
 > (Description:: Un gigantesque élan blanc aux bois tachés de sang, gardien redoutable du Bois Isolé, animé d’une volonté meurtrière.)
 
 Infos||

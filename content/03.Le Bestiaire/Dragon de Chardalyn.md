@@ -26,7 +26,7 @@ Rôle: Arme vivante de destruction
 ---
 
 # Dragon de Chardalyn
-![[Assets/PNJ/Dragon_de_Chardalyn.jpg]]
+![[public/2-World/Assets/PNJ/dragon_de_chardalyn.jpg]]
 > (Description:: Colosse artificiel forgé en chardalyn, animé par magie noire. Serviteur destructeur et incontrôlable, il incarne le summum de la corruption de ce cristal maudit.)
 
 Infos||

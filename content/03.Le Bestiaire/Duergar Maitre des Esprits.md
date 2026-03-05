@@ -26,7 +26,7 @@ Rôle: Contrôleur psychique
 ---
 
 # Duergar, Maître des Esprits
-![[Assets/PNJ/Duergar_Maitre_des_Esprits.jpg]]
+![[public/2-World/Assets/PNJ/Duergar_Maitre_des_Esprits.jpg]]
 > (Description:: Mystiques duergars spécialisés dans la manipulation mentale et les illusions. Ils exploitent la puissance psychique pour dominer leurs adversaires et se dissimuler dans l’ombre.)
 
 Infos||

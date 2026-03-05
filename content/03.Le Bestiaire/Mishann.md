@@ -1,4 +1,4 @@
-Mishann est une prêtresse de [[2-World/Lieux/Les 10-Cités/Bryn Shander/Bryn Shander]] et la mère adoptive de [[Dannika Graysteel]]. C'est une ancienne aventurière native de Kezhan (petit village de Krong, pas loin de Khereglel).
+Mishann est une prêtresse de [[z_Templates/2-World/Lieux/Les 10-Cités/Bryn Shander/Bryn Shander]] et la mère adoptive de [[Dannika Graysteel]]. C'est une ancienne aventurière native de Kezhan (petit village de Krong, pas loin de Khereglel).
 ## Description
 
 ### Apparence

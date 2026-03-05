@@ -26,7 +26,7 @@ Rôle: Chef duergar
 ---
 
 # Grandolpha Muzgardt
-![[Assets/PNJ/Grandolpha_Muzgardt.jpg]]
+![[public/2-World/Assets/PNJ/Grandolpha_Muzgardt.jpg]]
 > (Description:: Matriarche duergar aux manières froides et au regard perçant, drapée de fourrures. Meneuse calculatrice au tempérament implacable.)
 
 Infos||

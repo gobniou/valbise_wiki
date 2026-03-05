@@ -26,7 +26,7 @@ Rôle: Garde artificiel
 ---
 
 # Duergar, Marteleur
-![[Assets/PNJ/Duergar_Marteleur.jpg]]
+![[public/2-World/Assets/PNJ/duergar_marteleur.jpg]]
 > (Description:: Création artificielle à l’apparence d’un nain déformé, ce marteleur est utilisé comme arme de siège et comme bourreau. Conçu pour infliger douleur et destruction, il est muet mais comprend le nain.)
 
 Infos||

@@ -27,7 +27,7 @@ Rôle: Sbire vampirique
 ---
 
 # Kobold Vampirien
-![[Assets/PNJ/Kobold_Vampirien.jpg]]
+![[public/2-World/Assets/PNJ/kobold_vampirien.jpg]]
 > (Description:: Ces kobolds ont été corrompus par la malédiction vampirique. Plus rapides et plus résistants que leurs semblables, ils vivent en meute et harcèlent leurs proies avec une cruauté surnaturelle.)
 
 Infos||

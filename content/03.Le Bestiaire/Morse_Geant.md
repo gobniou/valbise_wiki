@@ -26,7 +26,7 @@ Rôle: Animal marin colossal
 ---
 
 # Morse Géant
-![[Assets/PNJ/Morse_Geant.jpg]]
+![[public/2-World/Assets/PNJ/morse_geant.jpg]]
 > (Description:: Une créature marine gigantesque, dotée de défenses massives et d’une force colossale. Plus redoutable encore que ses cousins plus petits, il est le maître des mers glacées.)
 
 Infos||

@@ -26,7 +26,7 @@ Rôle: Guerrier souterrain
 ---
 
 # Duergar
-![[Assets/PNJ/Duergar.jpg]]
+![[public/2-World/Assets/PNJ/duergar.jpg]]
 > (Description:: Les duergars sont des nains corrompus et amers vivant dans les profondeurs. Ils possèdent des pouvoirs magiques d’agrandissement et d’invisibilité, mais souffrent d’une sensibilité au soleil.)
 
 Infos||

@@ -27,7 +27,7 @@ Rôle: Guerrier
 ---
 
 # Goliath, Guerrier
-![[Assets/PNJ/Goliath_Guerrier.jpg]]
+![[public/2-World/Assets/PNJ/goliath_guerrier.jpg]]
 > (Description:: Haut et massif, ce goliath a l’allure d’un guerrier taillé pour les climats glacés. Son corps est recouvert de tatouages tribaux et sa voix porte comme un tonnerre dans les montagnes.)
 
 Infos||

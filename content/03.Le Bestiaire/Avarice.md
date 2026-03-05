@@ -26,7 +26,7 @@ Rôle: Magicienne de l'Arcane Brotherhood
 ---
 
 # Avarice
-![[Assets/PNJ/Avarice.jpg]]
+![[public/2-World/Assets/PNJ/Avarice.jpg]]
 > (Description:: Puissante magicienne de la Confrérie des Arcanes, froide et ambitieuse, maniant un bâton de givre redoutable et prête à bannir ses ennemis dans une prison de glace éternelle.)
 
 Infos||

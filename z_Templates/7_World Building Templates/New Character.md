@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 NoteIcon: npc
 NoteStatus: New
-char_location: "[[2-World/Lieux/Les 10-Cités/Bremen/Lampoteuo City/Lampoteuo City|Lampoteuo City]]"
+char_location: "[[Lampoteuo City|Lampoteuo City]]"
 ---
 
 

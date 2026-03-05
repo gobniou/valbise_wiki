@@ -26,7 +26,7 @@ Rôle: Animal marin gigantesque
 ---
 
 # Cachalot
-![[Assets/PNJ/Cachalot.jpg]]
+![[public/2-World/Assets/PNJ/cachalot.jpg]]
 > (Description:: Une immense créature marine, puissante et redoutée, capable d’engloutir ses proies entières. Le cachalot domine les profondeurs par sa force colossale et son endurance.)
 
 Infos||

@@ -26,7 +26,7 @@ Rôle: Magicienne (Harpell)
 ---
 
 # Vellynne Harpell
-![[Assets/PNJ/Vellynne_Harpell.jpg]]
+![[public/2-World/Assets/PNJ/vellynne_harpell.jpg]]
 > (Description:: Mage érudite de la famille Harpell, pragmatique et volontaire. Porte des bracelets de défense et une baguette de projectiles magiques. Elle est connue pour son approche méthodique de la magie et son rôle d’alliée potentielle.)
 
 Infos||

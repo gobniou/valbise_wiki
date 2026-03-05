@@ -26,7 +26,7 @@ Rôle: Prédateur glacé
 ---
 
 # Marcheur Boréal
-![[Assets/PNJ/Marcheur_Boreal.jpg]]
+![[public/2-World/Assets/PNJ/marcheur_boreal.jpg]]
 > (Description:: Mort-vivant terrifiant qui incarne la froideur des terres polaires. Sa lumière aveuglante et son souffle de glace en font un adversaire redouté dans les étendues gelées.)
 
 Infos||

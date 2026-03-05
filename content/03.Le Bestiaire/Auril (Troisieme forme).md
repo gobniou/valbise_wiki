@@ -26,7 +26,7 @@ Rôle: Déesse de l’Hiver - Troisième Forme
 ---
 
 # Auril (Troisième forme)
-![[Assets/PNJ/Auril_Troisieme_Forme.jpg]]
+![[public/2-World/Assets/PNJ/auril_troisieme_forme.jpg]]
 > (Description:: Dernière et plus terrifiante manifestation d’Auril, figée dans une statue de glace animée. Cette forme incarne son pouvoir ultime, entourée d’une aura glaciale meurtrière.)
 
 Infos||

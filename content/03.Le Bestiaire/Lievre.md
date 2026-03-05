@@ -26,7 +26,7 @@ Rôle: Animal
 ---
 
 # Lièvre
-![[Assets/PNJ/Lievre.jpg]]
+![[public/2-World/Assets/PNJ/lievre.jpg]]
 > (Description:: Petit animal vif et alerte, le lièvre détale à la moindre menace, se servant de son agilité et de sa vitesse pour survivre dans la nature hostile.)
 
 Infos||

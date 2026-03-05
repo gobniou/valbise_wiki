@@ -27,7 +27,7 @@ Rôle: Déesse de l’Hiver - Deuxième Forme
 ---
 
 # Auril (Deuxième forme)
-![[Assets/PNJ/Auril_Deuxieme_Forme.jpg]]
+![[public/2-World/Assets/PNJ/auril_deuxieme_forme.jpg]]
 > (Description:: Deuxième manifestation physique d’Auril, un corps de glace redoutable armé d’un Morgenstern. Son pouvoir s’intensifie, transformant le champ de bataille en un enfer glacé.)
 
 Infos||

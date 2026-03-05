@@ -27,7 +27,7 @@ Rôle: Monstre mort-vivant
 ---
 
 # Géant du Givre, Squelette
-![[Assets/PNJ/Geant_du_Givre_Squelette.jpg]]
+![[public/2-World/Assets/PNJ/geant_du_givre_squelette.jpg]]
 
 Infos||
 :---:|:---:|

@@ -27,7 +27,7 @@ Rôle: Prédateur
 ---
 
 # Troll de Glace
-![[Assets/PNJ/Troll_de_Glace.jpg]]
+![[public/2-World/Assets/PNJ/troll_de_glace.jpg]]
 > (Description:: Masse imposante de muscles recouverts de glace, ses crocs et ses griffes laissent échapper un souffle givré, transformant le champ de bataille en un enfer glacé.)
 
 Infos||

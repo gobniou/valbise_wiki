@@ -26,7 +26,7 @@ Rôle: Monstre
 ---
 
 # Sephek Kaltro
-![[Assets/PNJ/Sephek_Kaltro.jpg]]
+![[public/2-World/Assets/PNJ/Sephek_Kaltro.jpg]]
 > (Description:: Humain aux traits durs maniant une lame glacée. Sa présence dégage un froid surnaturel et une détermination implacable.)
 
 Infos||

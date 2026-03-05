@@ -26,7 +26,7 @@ Rôle: Serviteur artificiel
 ---
 
 # Magen Demos
-![[Assets/PNJ/Magen_Demos.jpg]]
+![[public/2-World/Assets/PNJ/magen_demos.jpg]]
 > (Description:: Un artificiel créé pour servir, armé d'une épée et d'une arbalète. Bien qu'il ne parle pas, il obéit sans faille à son créateur.)
 
 Infos||

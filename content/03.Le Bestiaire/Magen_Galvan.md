@@ -26,7 +26,7 @@ Rôle: Serviteur artificiel
 ---
 
 # Magen Galvan
-![[Assets/PNJ/Magen_Galvan.jpg]]
+![[public/2-World/Assets/PNJ/magen_galvan.jpg]]
 > (Description:: Un artificiel imprégné de l’énergie de la foudre. Rapide et précis, il canalise l’électricité dans ses attaques dévastatrices.)
 
 Infos||

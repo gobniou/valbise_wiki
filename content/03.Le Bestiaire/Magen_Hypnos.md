@@ -26,7 +26,7 @@ Rôle: Serviteur artificiel
 ---
 
 # Magen Hypnos
-![[Assets/PNJ/Magen_Hypnos.jpg]]
+![[public/2-World/Assets/PNJ/magen_hypnos.jpg]]
 > (Description:: Un artificiel créé pour manipuler l’esprit et imposer la volonté de son créateur. Il utilise la télépathie et la suggestion pour contrôler ses adversaires.)
 
 Infos||

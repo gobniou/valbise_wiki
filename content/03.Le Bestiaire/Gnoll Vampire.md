@@ -27,7 +27,7 @@ Rôle: Prédateur vampirique
 ---
 
 # Gnoll Vampire
-![[Assets/PNJ/Gnoll_Vampire.jpg]]
+![[public/2-World/Assets/PNJ/gnoll_vampire.jpg]]
 > (Description:: Fusion monstrueuse d’un gnoll et d’un vampire. Chasseur impitoyable, hurlement glaçant et regard écœurant — il laisse derrière lui des proies exsangues.)
 
 Infos||
