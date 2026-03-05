@@ -12,7 +12,6 @@ leader: L'oratrice Duvessa Shane (humaine noble, loyale bonne). Le shérif Markh
 ---
 
 ![[Blason - Bryn Shander.png]]
-[[obsidian://open?vault=valbise-wiki&file=2-World%2FAssets%2FBlason%2FBlason%20-%20Bryn%20Shader.png]]
 
 **Bryn Shander** est la capitale cosmopolite des Dix-Cités et le premier arrêt pour la plupart des voyageurs venant du sud. Perchée sur une colline aride, c'est la seule colonie qui n'est pas située sur les rives d'un lac. Ses murailles de pierre de **10 mètres de haut** sont les plus imposantes du Valbise, offrant un sentiment de sécurité que l'on ne trouve nulle part ailleurs dans la région.
 
