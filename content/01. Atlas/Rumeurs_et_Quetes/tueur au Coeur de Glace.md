@@ -28,7 +28,7 @@ tags:
 > Loot possible | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Loot acquis | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-**[[Hlin Fléau-des-trolls]]**, une naine chasseuse de primes, a remarqué une série de meurtres étranges. Les victimes ont toutes triché à la loterie des sacrifices. Elle soupçonne **[[Sephek Kaltro]]**, un garde de la caravane de **[[Le Comptoir de Torg]]**.
+**[[Hlin Fléau-des-trolls]]**, une naine chasseuse de primes, a remarqué une série de meurtres étranges. Les victimes ont toutes triché à la loterie des sacrifices. Elle soupçonne **[[content/03.Le Bestiaire/Sephek Kaltro]]**, un garde de la caravane de **[[Le Comptoir de Torg]]**.
 
 
 
