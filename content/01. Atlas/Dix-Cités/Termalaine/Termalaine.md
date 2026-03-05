@@ -24,17 +24,17 @@ Cependant, sous cette beauté apparente, une tension politique couve. L'orateur 
 **Bois Isolé :** 2 heures vers le nord par le sentier de la forêt.
 
 ## SITES À TERMALAINE
-* La Palourde Bleue
+* [[La Palourde Bleue]]
 **Taverne**
 Réputée pour avoir la meilleure bouillabaisse de Valbise. Le propriétaire, **Vernon Braig**, est un homme jovial qui aime partager les rumeurs locales.
 %% #secret **Rumeurs de la Mine :** Vernon a entendu des mineurs parler d'un "grell" et d'autres créatures étranges qui auraient envahi les niveaux inférieurs. %%
 
-* Le Côté Est
+* [[Le Côté Est]]
 **Hébergement**
 Une auberge élégante gérée par **Marta Peskryk**. Elle est célèbre pour ses chambres souterraines confortables et bien chauffées, idéales pour échapper aux vents hurlants d'Auril.
 %% #secret **Le Fantôme de Janth :** Marta soupçonne que l'un de ses clients réguliers est possédé par l'esprit d'un mineur mort, Janth Aloez, dont le corps repose toujours dans la mine. %%
 
-* La Mine de Gemmes
+* [[La Mine de Gemmes]]
 **Industrie**
 Située à la limite nord de la ville, c'est le cœur économique de Termalaine. Elle est actuellement fermée.
 %% #secret **Incursion de Kobolds :** Des kobolds ont investi la mine. Ils sont menés par un chef nommé **Trex**, qui est devenu étrangement intelligent et capable de parler après avoir trouvé un objet mystérieux (un crâne de cristal possédé). %%
