@@ -1,4 +1,4 @@
-Dannika Graysteel est une demi-elfe scientifique de [[2-World/Lieux/Les 10-Cités/Bryn Shander/Bryn Shander]]. Au contraire de sa consoeur [[Tali]], elle s'est spécialisée dans les animaux des légendes [d'Isdalen](https://petal-presente-isdalen-rime-of-vintervald.fandom.com/fr/wiki/Isdalen "Isdalen"), notamment les [chwingas](https://petal-presente-isdalen-rime-of-vintervald.fandom.com/fr/wiki/Chwinga "Chwinga").
+Dannika Graysteel est une demi-elfe scientifique de [[2-World/Lieux/Les 10-Cités/Bryn Shander/Bryn Shander]]. Au contraire de sa consoeur [[content/03.Le Bestiaire/Tali]], elle s'est spécialisée dans les animaux des légendes [d'Isdalen](https://petal-presente-isdalen-rime-of-vintervald.fandom.com/fr/wiki/Isdalen "Isdalen"), notamment les [chwingas](https://petal-presente-isdalen-rime-of-vintervald.fandom.com/fr/wiki/Chwinga "Chwinga").
 
 ## Description
 

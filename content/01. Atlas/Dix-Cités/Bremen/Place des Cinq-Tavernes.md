@@ -51,4 +51,4 @@ Facilement identifiable grâce à l'immense tête d'orignal empaillée (et passa
 * Le Frère à barbe noire
 **Taverne**
 La taverne la plus décorée, remplie de babioles et de reliques naines. C'est ici que l'on trouve la bière la plus forte, mais aussi la plus chère.
- %% #secret **L'Information de Tali :** C'est souvent ici que [[Tali]] vient se réchauffer après ses observations sur les quais. C'est un excellent endroit pour entamer la discussion sur la quête du Plésiosaure. %%
+ %% #secret **L'Information de Tali :** C'est souvent ici que [[content/03.Le Bestiaire/Tali]] vient se réchauffer après ses observations sur les quais. C'est un excellent endroit pour entamer la discussion sur la quête du Plésiosaure. %%

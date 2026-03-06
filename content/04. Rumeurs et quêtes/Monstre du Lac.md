@@ -1,12 +1,12 @@
 ---
-questObtained: 
+questObtained:
 questStatus: In Progress
-questGiver: "[[Tali]]"
+questGiver: "[[content/03.Le Bestiaire/Tali]]"
 questLocationObtained: "[[2-World/Lieux/Les 10-Cités/Bremen/Bremen]]"
-questSessionObtained: 
-questNotes: 
+questSessionObtained:
+questNotes:
 questLootAvail: une sacoche contenant 5 pierres précieuses (10 po chacune)
-questLookEarned: 
+questLookEarned:
 NoteIcon: quest
 obsidianUIMode: preview
 tags:
@@ -28,7 +28,7 @@ tags:
 > Loot possible | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Loot acquis | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-Les personnages récupèrent cette quête en arrivant à [[2-World/Lieux/Les 10-Cités/Bremen/Bremen]]. En se promenant près des quais gelés, ils rencontrent **[[Tali]]**, un chercheur demi-elfe (ou une chercheuse, selon votre préférence) qui étudie la faune locale. Tali s'inquiète des rapports récents faisant état d'un "monstre" qui terrorise les pêcheurs sur le lac Maer Dualdon, coulant les barques et brisant les filets.
+Les personnages récupèrent cette quête en arrivant à [[2-World/Lieux/Les 10-Cités/Bremen/Bremen]]. En se promenant près des quais gelés, ils rencontrent **[[content/03.Le Bestiaire/Tali]]**, un chercheur demi-elfe (ou une chercheuse, selon votre préférence) qui étudie la faune locale. Tali s'inquiète des rapports récents faisant état d'un "monstre" qui terrorise les pêcheurs sur le lac Maer Dualdon, coulant les barques et brisant les filets.
 
 Tali propose aux personnages de louer une barque et de s'aventurer sur le lac pour trouver la créature. Plutôt que de simplement la tuer, Tali demande aux personnages d'observer son comportement et, si possible, de découvrir pourquoi elle est devenue si agressive.
 
@@ -38,7 +38,7 @@ L'enquête révèle que le monstre est un **Plésiosaure** qui a été "éveill�
 
 ### Obtenir la quête
 
-- Parler à **[[Tali]]** sur les quais de [[2-World/Lieux/Les 10-Cités/Bremen/Bremen]].
+- Parler à **[[content/03.Le Bestiaire/Tali]]** sur les quais de [[2-World/Lieux/Les 10-Cités/Bremen/Bremen]].
 - Entendre les pêcheurs se plaindre à la **[[Place des Cinq-Tavernes]]**.
 
 ### Récompenses

@@ -39,4 +39,4 @@ Cinq tavernes indépendantes disposées en demi-cercle : **Pierres**, **La Quill
 * Les Quais de Bremen
 **Zone de Pêche**
 Le port est un désert de glace où les barques sont alignées, prêtes à être traînées vers l'eau libre.
- %% #secret **Tali :** C'est ici que l'on trouve souvent [[Tali]], un(e) chercheur(se) qui étudie la faune et qui propose la quête du Plésiosaure éveillé. %%
+ %% #secret **Tali :** C'est ici que l'on trouve souvent [[content/03.Le Bestiaire/Tali]], un(e) chercheur(se) qui étudie la faune et qui propose la quête du Plésiosaure éveillé. %%

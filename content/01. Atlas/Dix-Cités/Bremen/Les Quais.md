@@ -18,7 +18,7 @@ Les pêcheurs doivent désormais traîner leurs barques sur des centaines de mè
 * Le Brise-Glace
 **Outil Communautaire**
 Une lourde masse en fer utilisée pour tenter de maintenir un chenal ouvert, désormais abandonnée.
- %% #secret **La Rencontre de Tali :** C'est ici que les PJ rencontrent [[Tali]], qui observe le lac avec une longue-vue. Il/Elle soupçonne que le monstre qui attaque les bateaux n'est pas une créature ordinaire, mais une bête dotée d'une intelligence maléfique. %%
+ %% #secret **La Rencontre de Tali :** C'est ici que les PJ rencontrent [[content/03.Le Bestiaire/Tali]], qui observe le lac avec une longue-vue. Il/Elle soupçonne que le monstre qui attaque les bateaux n'est pas une créature ordinaire, mais une bête dotée d'une intelligence maléfique. %%
 
 * La Barque de Gendar
 **Vestige**
