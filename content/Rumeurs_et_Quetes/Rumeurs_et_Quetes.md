@@ -20,7 +20,7 @@ Ce tableau répertorie où chaque aventure commence. Utilisez les liens pour acc
 | **[[Caer-Konig]]** | [[L'Invisible]] | [[Trovus]] | Infiltration / Traque |
 | **[[Caer-Dineval]]** | [[Les Épées Noires]] | [[Hettie]] | Politique / Culte |
 | **[[Havre-du-Levant]]** | [[Maudite Sorcellerie]] | [[Imdra Arlaggath]] | Combat de Boss / Exploration |
-| **[[Bon Hydromel]]** | [[L'Hydromel doit Couler]] | Citoyens | Récupération / Géants |
+| **[[Bon Hydromel]]** | [[L'Hydromel doit couler]] | Citoyens | Récupération / Géants |
 | **[[Brèche de Dougan]]** | [[L'Antre des Loups]] | [[Edgra Durridge]] | Négociation / Sauvetage |
 | **Itinérant** | [[Tueur au Cœur de Glace]] | [[Hlin Fléau-des-trolls]] | Enquête / Assassinat |
 
