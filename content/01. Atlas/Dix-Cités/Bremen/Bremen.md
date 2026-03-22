@@ -9,6 +9,7 @@ population: 150
 Rivalité: Bois Isolé, Targos, Termalaine
 Milice: 25 soldats (guerriers tribaux) et 2 vétérans
 leader: L'orateur Dorbulgruf Shalescar (nain d'écu). L'âge a affaibli son esprit et son regard vide est souvent confondu avec un calme inébranlable.
+Sacrifice: Chaleur (Aucun feu allumé pendant toute une nuit, de la tombée de la nuit à l'aube).
 ---
 
 ![[Blason - Bremen.png]]
