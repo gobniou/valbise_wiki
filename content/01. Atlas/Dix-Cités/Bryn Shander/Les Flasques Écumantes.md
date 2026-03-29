@@ -22,9 +22,8 @@ La taverne propose des boissons locales et des repas simples mais copieux. C'est
 * Le Bar de Beldora
 **Zone de Service**
 Beldora est toujours prête à écouter les récits des voyageurs.
- %% #secret **Espionne des Ménestrels :** Beldora est une agente des **Ménestrels**. Elle utilise sa taverne pour recueillir des informations sur les activités du Zhentarim à Targos. Elle possède un **médaillon de communication** caché sous son tablier. %%
-
+x
 * Les Tables d'Angle
 **Zone Sociale**
 Où les anciens de la ville se réunissent pour jouer aux dés.
-	 %% #secret **Rumeurs de Blablbl :** Bah ca c'est un secret  %%
+	 %% #secret **Rumeurs de Blablbl :** Bah ca c'est un secrete  %%
