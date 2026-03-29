@@ -73,7 +73,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [ Plugin.RemoveDrafts(), Plugin.ExplicitPublish(), { name: "VisibilityFilter", shouldPublish(ctx, [_tree, vfile]) { const vis = vfile.data?.frontmatter?.wiki_visibility; if (vis === "Hidden") return false; return true; } } ],
+    filters: [ Plugin.RemoveDrafts(), { name: "VisibilityFilter", shouldPublish(ctx, [_tree, vfile]) { const vis = vfile.data?.frontmatter?.wiki_visibility; if (vis === "Hidden") return false; return true; } } ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
