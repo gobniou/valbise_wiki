@@ -5,10 +5,10 @@ tags:
 Convivialité: 3
 Confort: 2
 Services: 2
-leader:  Ethen Yarbroul (humaine roturière, neutre bonne).
+leader: Ma Ethen Yarbroul (humaine roturière, neutre bonne).
 cité: [[Targos]]
 ---
-M
+
 * La Voile aux Trois Pavillons
 **Taverne**
 
