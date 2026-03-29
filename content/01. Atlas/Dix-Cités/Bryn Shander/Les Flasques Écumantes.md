@@ -27,4 +27,4 @@ Beldora est toujours prête à écouter les récits des voyageurs.
 * Les Tables d'Angle
 **Zone Sociale**
 Où les anciens de la ville se réunissent pour jouer aux dés.
- %% #secret **Rumeurs de Duergars :** Runa a remarqué que de plus en plus de gens se plaignent de vols nocturnes d'objets en métal. Elle soupçonne que quelque chose s'est infiltré dans les égouts de la ville. %%
+	 %% #secret **Rumeurs de Blablbl :** Bah ca c'est un secret  %%
