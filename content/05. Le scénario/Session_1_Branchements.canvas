@@ -1,70 +1,13 @@
 {
-	"nodes": [
-		{
-			"id": "cabane-targos",
-			"x": 0,
-			"y": 50,
-			"width": 350,
-			"height": 260,
-			"color": "1",
-			"type": "text",
-			"text": "### 🩸 [Session 1] La Cabane de Targos\n**Situation de départ (Huis clos)**\n\n- Cadavre au sol, pic de glace pure.\n- Tension entre les joueurs (micros coupés).\n- [[Hlin Fléau-des-trolls]] brise la vitre et donne la quête de [[Sephek Kaltro]] (100 po).\n\n*Où vont les joueurs à la sortie de la cabane ?*"
-		},
-		{
-			"id": "chunk-1-bremen",
-			"x": 550,
-			"y": -200,
-			"width": 350,
-			"height": 220,
-			"color": "4",
-			"type": "text",
-			"text": "### ❄️ Chunk 1 : Le Blizzard de Brémen\n**La Voie Royale (Suivre la piste)**\n\n- Voyage à pied de 2 heures dans l'enfer blanc.\n- Jet de Constitution DD 10 (Froid Extrême).\n- Mène directement à la [[Session_2_Bremen]] (L'Auberge de Cora)."
-		},
-		{
-			"id": "chunk-2-targos",
-			"x": 550,
-			"y": 100,
-			"width": 350,
-			"height": 220,
-			"color": "2",
-			"type": "text",
-			"text": "### 🪵 Chunk 2 : Targos dans l'Ombre\n**L'Enquête Locale (Méfiance/Refus)**\n\n- Les PJ restent en ville pour fouiller le passé de la victime.\n- *Les Trois Fanions :* Giwën révèle le racket de la milice.\n- *Logis de l'Orateur :* [[Naerth Maxildanarr]] (Zhentarim) devient hostile."
-		},
-		{
-			"id": "chunk-3-brynshander",
-			"x": 550,
-			"y": 380,
-			"width": 350,
-			"height": 240,
-			"color": "2",
-			"type": "text",
-			"text": "### 🏰 Chunk 3 : Bryn Shander la Citadelle\n**Le Bouton Panique (Fuite)**\n\n- Les PJ paniquent face au cadavre et fuient vers la capitale.\n- Fouille stricte des gardes aux portes.\n- *Le Crochet du Nord :* Le Shérif Markham propose une prime sur les Yétis.\n- Ouvre la note de secours [[Bryn Shander]]."
-		}
+	"nodes":[
+		{"id":"cabane-targos","type":"text","text":"### 🩸 [Session 1] La Cabane de Targos\n**Situation de départ (Huis clos)**\n\n- Cadavre au sol, pic de glace pure.\n- Tension entre les joueurs (micros coupés).\n- [[Hlin Fléau-des-trolls]] brise la vitre et donne la quête de [[Sephek Kaltro]] (100 po).\n\n*Où vont les joueurs à la sortie de la cabane ?*","x":0,"y":50,"width":350,"height":260,"color":"1"},
+		{"id":"chunk-1-bremen","type":"text","text":"### ❄️ Chunk 1 : Le Blizzard de Brémen\n**La Voie Royale (Suivre la piste)**\n\n- Voyage à pied de 2 heures dans l'enfer blanc.\n- Jet de Constitution DD 10 (Froid Extrême).\n- Mène directement à la [[Session_2_Bremen]] (L'Auberge de Cora).","x":375,"y":-320,"width":350,"height":220,"color":"4"},
+		{"id":"chunk-3-brynshander","type":"text","text":"### 🏰 Chunk 3 : Bryn Shander la Citadelle\n**Le Bouton Panique (Fuite)**\n\n- Les PJ paniquent face au cadavre et fuient vers la capitale.\n- Fouille stricte des gardes aux portes.\n- *Le Crochet du Nord :* Le Shérif Markham propose une prime sur les Yétis.\n- Ouvre la note de secours [[Bryn Shander]].","x":375,"y":520,"width":350,"height":240,"color":"2"},
+		{"id":"chunk-2-targos","type":"text","text":"### 🪵 Chunk 2 : Targos dans l'Ombre\n**L'Enquête Locale (Méfiance/Refus)**\n\n- Les PJ restent en ville pour fouiller le passé de la victime.\n- *Les Trois Fanions :* Giwën révèle le racket de la milice.\n- *Logis de l'Orateur :* [[Naerth Maxildanarr]] (Zhentarim) devient hostile.","x":725,"y":50,"width":350,"height":280,"color":"2"}
 	],
-	"edges": [
-		{
-			"id": "edge-1",
-			"fromNode": "cabane-targos",
-			"fromSide": "right",
-			"toNode": "chunk-1-bremen",
-			"toSide": "left",
-			"label": "Ils acceptent le contrat"
-		},
-		{
-			"id": "edge-2",
-			"fromNode": "cabane-targos",
-			"fromSide": "right",
-			"toNode": "chunk-2-targos",
-			"toSide": "left",
-			"label": "Ils veulent enquêter ici"
-		},
-		{
-			"id": "edge-3",
-			"fromNode": "cabane-targos",
-			"fromSide": "right",
-			"toNode": "chunk-3-brynshander",
-			"toSide": "left",
-			"label": "Ils fuient la milice"
-		}
+	"edges":[
+		{"id":"edge-1","fromNode":"cabane-targos","fromSide":"right","toNode":"chunk-1-bremen","toSide":"left","label":"Ils acceptent le contrat"},
+		{"id":"edge-2","fromNode":"cabane-targos","fromSide":"right","toNode":"chunk-2-targos","toSide":"left","label":"Ils veulent enquêter ici"},
+		{"id":"edge-3","fromNode":"cabane-targos","fromSide":"right","toNode":"chunk-3-brynshander","toSide":"left","label":"Ils fuient la milice"}
 	]
 }
