@@ -35,7 +35,7 @@ Les personnages devront affronter le froid extrême et des Yétis pour retrouver
 
 
 ### Obtenir la quête
-- Aller à la **[[La Maison de Keegan]]** à [[Targos]].
+- Aller à la **[[La Maison de Keegan]]** à [[content/01. Atlas/Dix-Cités/Targos/Targos]].
 
 ### Récompenses
 - 50 po par personne de la part de l'Orateur si Garret revient vivant.

@@ -6,7 +6,7 @@ tags:
 race: Humain
 gender: Homme
 alignment: Loyal Bon
-location: "[[Bryn Shander]]"
+location: "[[content/01. Atlas/Dix-Cités/Bryn Shander/Bryn Shander]]"
 voice: Militaire, ferme, ne perd pas de temps en fioritures.
 title: Shérif de Bryn Shander
 status: Alive

@@ -17,11 +17,11 @@ Quêtes_Actives: [[Le Tueur au cœur de glace]]
 *À glisser si les joueurs fouillent le cadavre, la cabane, ou posent des questions en ville.*
 * **Secret 1 (Le Mobile) :** Le cadavre a une bourse vide. Il avait récemment payé un pot-de-vin à la milice pour que son nom soit retiré de la loterie des sacrifices d'Auril.
 * **Secret 2 (L'Anomalie) :** Le tueur n'a laissé aucune trace de pas enneigée en entrant, comme s'il flottait ou que la neige refusait de s'accrocher à lui.
-* **Secret 3 (La Cible) :** La caravane marchande de Torg's (où travaille le tueur) vient de quitter [[Targos]] il y a quelques heures en direction de [[Bremen]].
+* **Secret 3 (La Cible) :** La caravane marchande de Torg's (où travaille le tueur) vient de quitter [[content/01. Atlas/Dix-Cités/Targos/Targos]] il y a quelques heures en direction de [[Bremen]].
 
 ---
 ## 📍 Scène 1 : Le Huis Clos Textuel
-**Lieu :** [[Targos]] (Cabane de pêcheur abandonnée)
+**Lieu :** [[content/01. Atlas/Dix-Cités/Targos/Targos]] (Cabane de pêcheur abandonnée)
 **Enjeu :** Éviter que les PJs ne s'entretuent et lever le quiproquo.
 
 > **[Au Barbare - Privé]** Le blizzard de Targos t'engourdit. Tu défonces la porte d'une cabane plongée dans le noir. Tu tombes à genoux dans une flaque poisseuse. Un éclair déchire la nuit : devant toi gît un cadavre, le cœur transpercé par un énorme éclat de glace. Tes mains sont couvertes de sang. Soudain, tu entends des pas entrer derrière toi...

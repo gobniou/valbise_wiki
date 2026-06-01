@@ -6,7 +6,7 @@ tags:
 race: Humaine
 gender: Femme
 alignment: Loyale Bonne
-location: "[[Bryn Shander]]"
+location: "[[content/01. Atlas/Dix-Cités/Bryn Shander/Bryn Shander]]"
 voice: Claire, posée, mais teintée d'une fatigue immense.
 title: Oratrice de Bryn Shander
 status: Alive

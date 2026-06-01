@@ -6,7 +6,7 @@ tags:
 race: Naine d'écu
 gender: Femme
 alignment: Neutre Bonne
-location: "[[Bryn Shander]]"
+location: "[[content/01. Atlas/Dix-Cités/Bryn Shander/Bryn Shander]]"
 voice: Grave, rocailleuse, avec une pause après chaque phrase.
 title: Chasseuse de primes à la retraite
 status: Alive

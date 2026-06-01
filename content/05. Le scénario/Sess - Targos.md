@@ -4,7 +4,7 @@ tags:
   - Category/Session
 Session: 1
 Date_InGame: Jour 1 de l'Hiver Éternel
-Lieu_Initial: "[[Targos]]"
+Lieu_Initial: "[[content/01. Atlas/Dix-Cités/Targos/Targos]]"
 PNJs_Clefs:
   - "[[Hlin Fléau-des-trolls]]"
   - "[[Sephek Kaltro]]"
@@ -74,5 +74,5 @@ Les joueurs acceptent le contrat et quittent Targos de nuit pour rattraper la ca
 *L'Acte I est totalement ouvert. Si tes joueurs refusent de marcher vers Bremen, utilise ces portes de sortie immédiates :*
 
 - 🚪 **Ils restent à Targos pour enquêter :** La milice se montre hostile. S'ils fouillent les rumeurs, ils découvrent que l'Orateur [[Naerth Maxildanarr]] est corrompu par le Zhentarim.
-- 🚪 **Ils bifurquent vers Bryn Shander :** Ils tombent sur une patrouille qui leur parle du Shérif Markham et des primes sur les Yétis. Ouvrir la note [[Bryn Shander]].
+- 🚪 **Ils bifurquent vers Bryn Shander :** Ils tombent sur une patrouille qui leur parle du Shérif Markham et des primes sur les Yétis. Ouvrir la note [[content/01. Atlas/Dix-Cités/Bryn Shander/Bryn Shander]].
 - 🚪 **Ils suivent la piste normale :** Ils marchent 2 heures dans le blizzard. Ouvrir la note [[Session_2_Bremen]].

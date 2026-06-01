@@ -28,7 +28,7 @@ tags:
 > Loot possible | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Loot acquis | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-Cette quête "fil rouge" peut être obtenue n'importe où mais commence idéalement à [[Bryn Shander]]. Le gnome **[[Copper Knobberknocker]]** cherche à étudier les **Chwingas**, de petits esprits élémentaires, pour comprendre l'origine du froid surnaturel.
+Cette quête "fil rouge" peut être obtenue n'importe où mais commence idéalement à [[content/01. Atlas/Dix-Cités/Bryn Shander/Bryn Shander]]. Le gnome **[[Copper Knobberknocker]]** cherche à étudier les **Chwingas**, de petits esprits élémentaires, pour comprendre l'origine du froid surnaturel.
 
 ### Obtenir la quête
 - Parler à Copper à la **[[Maison du Seigneur du Matin]]**.

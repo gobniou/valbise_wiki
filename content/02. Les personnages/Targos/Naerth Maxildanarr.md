@@ -6,7 +6,7 @@ tags:
 race: Humain
 gender: Homme
 alignment: Loyal Mauvais
-location: "[[Targos]]"
+location: "[[content/01. Atlas/Dix-Cités/Targos/Targos]]"
 title: Orateur de Targos
 status: Alive
 ---
