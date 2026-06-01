@@ -3,7 +3,7 @@ NoteIcon: npc
 tags:
   - npc
   - Category/NPC
-wiki_visibility: Hidden
+wiki_visibility: Visible
 race: Humaine
 gender: Femme
 alignment: Chaotique Bonne

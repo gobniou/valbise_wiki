@@ -3,7 +3,7 @@ NoteIcon: Tavern
 tags:
   - Category/Location
 Convivialité: 4
-wiki_visibility: Visible
+wiki_visibility: Hidden
 Confort: 2
 Services: 3
 leader: Beldora et Runa (naines d'écu).
