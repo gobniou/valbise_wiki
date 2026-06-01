@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 ---
 ```mermaid
 graph LR

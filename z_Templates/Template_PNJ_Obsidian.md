@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 type: PNJ
 lieu: test
 faction: dz

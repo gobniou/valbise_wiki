@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 NoteIcon: Shop
 tags:
   - Category/Location

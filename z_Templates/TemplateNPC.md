@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 AssociatedGroup: 
 Gender: Male
 Race: 

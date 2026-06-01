@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 - [ ] Empty
 - [x] Regular
 - [?] Checked

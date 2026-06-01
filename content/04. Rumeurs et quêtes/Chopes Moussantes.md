@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 questObtained:
 questStatus: In Progress
 questGiver: 3 nains d'Écu

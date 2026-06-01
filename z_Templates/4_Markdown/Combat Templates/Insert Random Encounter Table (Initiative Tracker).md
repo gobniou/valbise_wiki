@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 | **`dice: D6`** | **Encounter**                                |
 | -------------- | -------------------------------------------- |
 | 1              | `encounter: 4: Kobold`                       |

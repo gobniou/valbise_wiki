@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 <iframe
     height = 700
     width = 100%

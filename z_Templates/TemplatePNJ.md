@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 Tali est un.e demi-elfe non-binaire scientifique venant de [Bryn Shander]
 
 ## Description

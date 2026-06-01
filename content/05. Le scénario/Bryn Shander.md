@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ## 🍻 Bryn Shander : Chopes moussantes (*Foaming Mugs*)
 > **Source Officielle :** *RotF p. 34*
 > **Type :** Quête locale de Bryn Shander (STRICTEMENT OFFICIELLE)

@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 You can create a new template by:
 
 ### Create A New Template

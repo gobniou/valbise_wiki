@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 width: 2048
 height: 1642
 scale: 25

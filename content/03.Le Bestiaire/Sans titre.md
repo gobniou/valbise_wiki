@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ```dataviewjs
 const base = "https://dvlivephoto.synology.me/open.html?file=";
 

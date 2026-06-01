@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 NoteIcon: journal
 aat-render-enabled: true
 fc-category:

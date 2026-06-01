@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 - **Principe** : Tout ce qui est entouré par `%% #secret` et `%%` est invisible pour vos joueurs sur le wiki.
     
 - **Action MJ** : Lorsqu'une information est découverte en jeu, il vous suffit de déplacer le texte **en dehors** des balises `%%` ou de supprimer les balises.

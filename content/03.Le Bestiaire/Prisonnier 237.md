@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 aliases:
   - Prisonnier 237
   - Vaelish Gant

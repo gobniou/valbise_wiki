@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 ---
 <%*
 let qcLayout = await  tp.system.suggester(["Horizontal Layout", "Vertical Layout"], [1, 2])

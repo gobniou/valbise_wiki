@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 NoteIcon: Landmark
 tags:
   - Category/Location

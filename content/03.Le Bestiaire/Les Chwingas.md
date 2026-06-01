@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 Les chwingas sont de petits élémentaires qui vivent dans des plantes, des rochers ou des rivières, généralement loin des villes. Il leur arrive cependant de s'y aventurer pour subtiliser de petits objets brillants.
 
 ## Description

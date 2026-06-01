@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 NoteIcon: Castle
 tags:
   - Category/Location

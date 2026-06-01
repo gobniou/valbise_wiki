@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ## 🦕 Bremen : Le monstre du lac (*Lake Monster*)
 > **Source Officielle :** *RotF p. 27*
 > **Type :** Quête locale de Bremen

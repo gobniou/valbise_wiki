@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ```encounter
 creatures:
   - My Monster          # 1 monster named My Monster will be added, with no HP, AC or modifier.

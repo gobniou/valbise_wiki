@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 aliases:
   - Truite à Tête Plate
 tags:

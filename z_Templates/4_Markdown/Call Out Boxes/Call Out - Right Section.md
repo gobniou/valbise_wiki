@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 > [!infobox]+
 > # Name
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]

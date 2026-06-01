@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ```dataviewjs
 const pages = dv.pages()  // maybe narrow down to a subset of pages
   .groupBy(p => p.NoteIcon)

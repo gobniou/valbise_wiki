@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ```encounter-table
 name: Weak Party
 creatures:

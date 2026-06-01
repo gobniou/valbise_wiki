@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 Var Lodmundottir était une guerrière humaine, la fille d’un roi isdalien qui a repoussée une invasion de géants des glaces il y a plusieurs millénaires.
 
 ## Légende

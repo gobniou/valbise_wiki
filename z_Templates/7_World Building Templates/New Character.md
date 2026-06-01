@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 obsidianUIMode: preview
 NoteIcon: npc
 NoteStatus: New

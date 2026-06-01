@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 aat-render-enabled: false # Enables this note to be rendered in a timeline
 timelines: [timelinename] # This note should be rendered in the timeline with the name "timeline" or "event"
 fc-date: 1491-01-11

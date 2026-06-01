@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 ---
 This requires the installation of the TTRPG Statblocks plugin, the Dataview plugin and you need to enable the javescript option within the Dataview settings. 
 # List All Monsters

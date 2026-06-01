@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 NoteIcon: Tavern
 tags:
   - Category/Location

@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 questObtained: 
 questStatus: Not Started
 questGiver: "[[Oarus Masthew]]"

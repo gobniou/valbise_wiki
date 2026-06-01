@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 NoteIcon: Settlement
 Convivialité: 2*
 Confort: 3*

@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:

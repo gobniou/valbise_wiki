@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 aliases:
   - Spellix Romwod
 tags:

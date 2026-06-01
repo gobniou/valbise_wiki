@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 Tags: Category/Group
 Community-Size: Outpost
 Alignment: Chaotic Evil

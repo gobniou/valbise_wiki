@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ```encounter-table
 name: Encounter Name
 creatures:

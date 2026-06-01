@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 tags: [lieu/auberge]
 cité: [[Bremen]]
 ---

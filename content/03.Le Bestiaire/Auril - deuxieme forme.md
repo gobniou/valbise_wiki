@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 aliases:
   - Auril (Deuxième forme)
 tags:

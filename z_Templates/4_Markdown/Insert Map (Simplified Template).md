@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 map_height_y: 2048
 map_width_x: 1642
 scale_pixels: 268

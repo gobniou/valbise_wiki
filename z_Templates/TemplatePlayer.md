@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 NoteIcon: player
 aliases:
   - Bob

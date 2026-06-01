@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 ---
 # But Markdown Is Scary
 

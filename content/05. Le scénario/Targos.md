@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ## 🏔️ Targos : Ascension de la montagne (*Mountain Climb*)
 > **Source Officielle :** *RotF p. 88*
 > **Type :** Quête locale de Targos

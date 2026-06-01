@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 aliases:
   - Lame du Desastre Vivante
 tags:

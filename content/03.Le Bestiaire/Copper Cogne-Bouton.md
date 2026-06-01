@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 Copper Knobberknocker gnome des roches qui travaille avec [[Mishann]] au temple de [[2-World/Lieux/Les 10-Cités/Bryn Shander/Bryn Shander]]. Il vénère [[Var]] et ne reconnait pas Apsaras, ce qui crée beaucoup de disputes avec la prêtresse.
 
 ## Description

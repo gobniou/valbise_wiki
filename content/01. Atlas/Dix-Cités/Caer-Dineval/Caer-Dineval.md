@@ -1,3 +1,6 @@
+---
+wiki_visibility: Hidden
+---
 ----
 NoteIcon: Settlement
 tags:

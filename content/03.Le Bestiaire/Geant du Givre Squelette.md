@@ -1,4 +1,5 @@
 ---
+wiki_visibility: Hidden
 aliases:
   - Géant du Givre Squelette
 tags:
