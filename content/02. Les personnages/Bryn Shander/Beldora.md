@@ -9,7 +9,7 @@ gender: Femme
 alignment: Chaotique Bonne
 location: "[[2-World/Lieux/Les 10-Cités/Bryn Shander/Bryn Shander]]"
 voice: Rapide, chuchotée, regarde toujours par-dessus son épaule.
-title: Agente des Ménestrels
+Rôle: Agente des Ménestrels
 status: Alive
 ---
 
