@@ -9,7 +9,7 @@ PNJs_Clefs:
   - "[[Hlin Fléau-des-trolls]]"
   - "[[Sephek Kaltro]]"
 ---
-
+![[tueur au Coeur de Glace]]
 # 🎬 Session 1 : Le Sang et la Glace
 
 > [!Atmosphere] Le Lexique Glacial (À placer dans tes descriptions)
